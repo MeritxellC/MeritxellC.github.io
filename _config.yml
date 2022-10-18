@@ -1,4 +1,4 @@
-title: Researcher
+title: Meritxell Colet
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
@@ -20,5 +20,7 @@ nav:
    link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Code"
+   link: "https://github.com/MeritxellC"
  - name: "Contact"
    link: "contact"

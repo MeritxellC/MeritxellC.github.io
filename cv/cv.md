@@ -39,13 +39,13 @@ Department of Earth Science, University of Hawaiʻi<br>
 <span style="margin-left:105px;"></span>&#x2022; Investigated relative timing of events from the Kīlauea volcano eruption in 2018 <br>
 <span style="margin-left:105px;"></span>&#x2022; Examined infrasound data collected at the Infrasound Laboratory (ISLA) of the University <br>
 <span style="margin-left:114px;"></span>of Hawai‘i for 50 of the most explosive events during the eruption <br>
-<span style="margin-left:105px;"></span>&#x2022; Analyzed displacement geodetic data and time series from seven GPS stations located around <br>
-<span style="margin-left:114px;"></span>the crater provided by the USGS Hawai‘i Volcanos Observatory (HVO) <br>
+<span style="margin-left:105px;"></span>&#x2022; Analyzed displacement geodetic data and time series from seven GPS stations located <br>
+<span style="margin-left:114px;"></span>around the crater provided by the USGS Hawai‘i Volcanos Observatory (HVO) <br>
 </p>
 
 <p>
 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Undergrad Research Assistant</strong><br>
-Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;
 Institute of Cross-Disciplinary Physics and Complex Systems, Uni. de les Illes Balears, Spain<br>
 <span style="margin-left:105px;"></span>&#x2022; Researched complex dynamics of semiconductor lasers with state-dependent delay <br>
 <span style="margin-left:105px;"></span>&#x2022; Analyzed time series with permutation entropy, return maps and mutual information <br>
@@ -56,8 +56,7 @@ Institute of Cross-Disciplinary Physics and Complex Systems, Uni. de les Illes B
 Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Department of Physics and Astronomy, Carleton College<br>
 <span style="margin-left:105px;"></span>&#x2022; Correlated and interpreted ordinal patterns to forecast the occurrence of extreme events in
-dual <br>
-<span style="margin-left:114px;"></span>dynamics in semiconductor lasers <br>
+<span style="margin-left:114px;"></span>dual dynamics in semiconductor lasers <br>
 <span style="margin-left:105px;"></span>&#x2022; Continued project as an Independent Study through Jan. – Mar. 2018 <br>
 </p>
 
@@ -68,7 +67,7 @@ dual <br>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands REU, University of Hawaiʻi<br>
 Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 PI: Milton Garcés, student: Nicholas Forcone<br>
-<span style="margin-left:90px;"></span>Project: Secondary Lamb Waves from the 2022 Tonga Eruption
+<span style="margin-left:95px;"></span>Project: Secondary Lamb Waves from the 2022 Tonga Eruption
 </p>
 
 <p>
@@ -79,19 +78,19 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 <u>Publications</u>
 </h3>
 <p>
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
-<strong>Colet, M.</strong>, Takazawa, S., <br>
-<span style="margin-left:85px;"></span>& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere: Signals, <br>
-<span style="margin-left:85px;"></span>3(2), 209-234. 
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
+<strong>Colet, M.</strong>,<br>
+<span style="margin-left:85px;"></span>Takazawa, S.,& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere:  <br>
+<span style="margin-left:85px;"></span>Signals, 3(2), 209-234. 
 
 <a href="https://www.mdpi.com/2624-6120/3/2/14/htm">https://doi.org/10.3390/signals3020014</a>
 
 </p>
 
 <p>
-2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex Dynamics of
-a Semiconductor <br> 
-<span style="margin-left:85px;"></span>Laser with Feedback: Scientific Reports, 8, 10741.
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex Dynamics of
+a <br> 
+<span style="margin-left:85px;"></span>Semiconductor Laser with Feedback: Scientific Reports, 8, 10741.
 <a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
 </p>
 
@@ -100,31 +99,29 @@ a Semiconductor <br>
 </h3>
 
 <p>
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using
-Open Source to <br> 
-<span style="margin-left:85px;"></span>observe a volcanic eruption on a global scale in near real time. Abstract EGU22-13582 presented at EGU, <br>
-<span style="margin-left:85px;"></span>Vienna, Austria.
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using <br> 
+<span style="margin-left:85px;"></span>Open Source to observe a volcanic eruption on a global scale in near real time. Abstract EGU22-13582 <br>
+<span style="margin-left:85px;"></span>presented at EGU, Vienna, Austria.
 <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html">Link here.</a>
 </p>
 
 
 <p>
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from
-Kīlauea 2018 caldera  <br>
-<span style="margin-left:85px;"></span>collapse. Abstract V43C-0202 presented at AGU Fall Meeting, San Francisco, CA (poster).
-<a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from <br>
+<span style="margin-left:85px;"></span>Kīlauea 2018 caldera collapse. Abstract V43C-0202 presented at AGU Fall Meeting, San Francisco, CA (poster).
+<span style="margin-left:85px;"></span><a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
 </p>
 
 <p>
-2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong>, Fischer, I., & Soriano, M. C., 2018. Analysing the complex dynamics of
-semiconductor lasers with <br>
-<span style="margin-left:85px;"></span>state-dependent delay. Presented at Summer Research Symposium, Carleton College (poster).
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong>, Fischer, I., & Soriano, M. C., 2018. Analysing the complex dynamics of <br> 
+<span style="margin-left:85px;"></span>semiconductor lasers with state-dependent delay. Presented at Summer Research Symposium, 
+<span style="margin-left:85px;"></span>Carleton College (poster).
 </p>
 
 <p>
-2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics
-of a Semiconductor <br>
-<span style="margin-left:85px;"></span>Laser with Feedback. Presented at Summer Research Symposium, Carleton College (poster).
+2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics <br>
+<span style="margin-left:85px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton College 
+<span style="margin-left:85px;"></span>(poster).
 </p>
 
 <h3>
@@ -149,7 +146,7 @@ of a Semiconductor <br>
 <u>Fieldwork</u>
 </h3>
 <p>
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, Hawaiʻi; R/V Kilo Moana. <br>
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; R/V Kilo Moana <br>
 1st - 4th Jul.&nbsp;&nbsp;&nbsp;PI Jasper Konter
 </p>
 <p>

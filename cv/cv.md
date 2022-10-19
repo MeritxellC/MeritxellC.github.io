@@ -7,12 +7,11 @@ You can find my CV in PDF [here](Meritxell_Colet_CV_PDF.pdf) (last updated: Augu
 <style type="text/css"> 
 p{ 
   line-height: 20px; //you can set the line height here 
+  text-align: justify;
+  text-justify: inter-word;
 } 
 </style>
-div {
-text-align: justify;
-text-justify: inter-word;
-}
+
 
 <h3>
 <u>Education</u>

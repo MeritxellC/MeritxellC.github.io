@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
+
+
+<img src="./img/kilauea_photo_trim.JPG" alt="Meri at Kīlauea volcano">
+
 <h3>
 About
 </h3>
-
-<img class="profile-picture" src="sherlock.jpg">
 
 I am a Field System Engineer and Analyst at the Infrasound Lab (ISLA) at the 
 [University of Hawaiʻi (UH)](https://www.hawaii.edu/). At UH, I am affiliated with the 

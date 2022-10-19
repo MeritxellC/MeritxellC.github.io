@@ -12,13 +12,14 @@ html {
 body {
     font-size: 15px;
     margin: 0;
-    font-family: "Helvetica Neue 55 Roman";
+    font-family: "Verdana";
     height: 100%;
     text-justify: auto;
+    text-indent: 50px
 }
 a {
     text-decoration: underline;
-    text-decoration-color: #030764;
+    text-decoration-color: #0343DF;
     color: $accent;
 }
 a:hover {

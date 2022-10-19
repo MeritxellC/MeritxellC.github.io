@@ -7,10 +7,10 @@ layout: default
 Milton A Garcés, Daniel Bowman, Cleat Zeiler, Anthony Christe, Tyler Yoshiyama, Brian Williams, Meritxell Colet, 
 Samuel Takazawa, Sarah Popenhagen (2022)
 
-[PDF](Garces_et_al_2022.pdf)
+[[PDF]](Garces_et_al_2022.pdf)
 
 [Forecasting events in the complex dynamics of a semiconductor laser with optical feedback](https://www.nature.com/articles/s41598-018-29110-5)
 
 Meritxell Colet, Andrés Aragoneses (2018)
 
-[PDF](Aragoneses_and_Colet_2018.pdf)
+[[PDF]](Aragoneses_and_Colet_2018.pdf)

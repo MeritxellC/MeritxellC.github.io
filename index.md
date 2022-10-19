@@ -25,9 +25,12 @@ I earned a B.A. in Physics from Carleton College. During my undergraduate years 
 in physics, such as [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), and in geology, such 
 as [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
 
+<br style="line-height:3">
+
 <h3>
 Other things
 </h3>
 
-- The base for my [website template](https://github.com/ankitsultana/researcher), by Ankit Sultana.
+- The base for my [website template](https://github.com/ankitsultana/researcher), by Ankit Sultana, and the heavily influenced
+by [Maria Antoniiak](https://maria-antoniak.github.io), all credits to her!
 

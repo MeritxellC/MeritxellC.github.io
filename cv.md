@@ -4,10 +4,6 @@ layout: default
 
 You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 2022)
 
-<p>
-<a href="https://google.com/">Google</a>
-</p>
-
 
 <h3>
 <u>Education</u>
@@ -85,7 +81,7 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 <span style="margin-left:85px;"></span>& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere: Signals, <br>
 <span style="margin-left:85px;"></span>3(2), 209-234. 
 
-<a href=https://www.mdpi.com/2624-6120/3/2/14/htm>https://doi.org/10.3390/signals3020014</a>
+<a href="https://www.mdpi.com/2624-6120/3/2/14/htm">https://doi.org/10.3390/signals3020014</a>
 
 </p>
 
@@ -93,7 +89,7 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex Dynamics of
 a Semiconductor <br> 
 <span style="margin-left:85px;"></span>Laser with Feedback: Scientific Reports, 8, 10741.
-<a href=https://www.nature.com/articles/s41598-018-29110-5>https://doi.org/10.1038/s41598-018-29110-5</a>
+<a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
 </p>
 
 <h3>
@@ -105,7 +101,7 @@ a Semiconductor <br>
 Open Source to <br> 
 <span style="margin-left:85px;"></span>observe a volcanic eruption on a global scale in near real time. Abstract EGU22-13582 presented at EGU, <br>
 <span style="margin-left:85px;"></span>Vienna, Austria.
-   <a href=https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html>Link here.</a>
+<a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html">Link here.</a>
 </p>
 
 
@@ -113,7 +109,7 @@ Open Source to <br>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from
 Kīlauea 2018 caldera  <br>
 <span style="margin-left:85px;"></span>collapse. Abstract V43C-0202 presented at AGU Fall Meeting, San Francisco, CA (poster).
-<a href=https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract>Link here.</a>
+<a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
 </p>
 
 <p>

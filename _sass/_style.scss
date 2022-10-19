@@ -10,13 +10,14 @@ html {
     padding: 0;
 }
 body {
-    font-size: 11px;
+    font-size: 13px;
     margin: 0;
     font-family: "Arvo";
     height: 100%;
 }
 a {
     text-decoration: underline;
+    text-decoration-color: #030764;
     color: $accent;
 }
 a:hover {

@@ -4,7 +4,7 @@ layout: default
 
 You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 2022)
 
-
+<p><a href="https://google.com/">Google</a> <em class="info">new</em></p>
 
 
 <h3>
@@ -12,7 +12,7 @@ You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 20
 </h3>
 <p>
 2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Carleton College</strong>, Northfield, MN <br>
-<span style="margin-left:95px;"></span>Bachelor of Arts in Physics, minor in Art History
+<span style="margin-left:97px;"></span>Bachelor of Arts in Physics, minor in Art History
 </p>
 
 <h3>
@@ -21,7 +21,7 @@ You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 20
 <p>
 2020 (Oct.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Field Systems Engineer and Analyst</strong><br>
 - Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Infrasound Laboratory, Hawaiʻi Institute of Geophysics and Planetology, U. of Hawaiʻi<br>
+Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>
 <span style="margin-left:105px;"></span>&#x2022; Built and integrated algorithms for the Infrasound Station I59US as part of 
 the <br>
 <span style="margin-left:114px;"></span>International Monitoring System of the Comprehensive Nuclear-Test Ban Treaty <br>
@@ -82,7 +82,9 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 <strong>Colet, M.</strong>, Takazawa, S., <br>
 <span style="margin-left:85px;"></span>& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere: Signals, <br>
 <span style="margin-left:85px;"></span>3(2), 209-234. 
-  <a href=https://www.mdpi.com/2624-6120/3/2/14/htm>https://doi.org/10.3390/signals3020014</a>
+<div markdown="1">
+[https://doi.org/10.3390/signals3020014](https://www.mdpi.com/2624-6120/3/2/14/htm)
+</div>
 </p>
 
 <p>

@@ -103,8 +103,9 @@ a Semiconductor <br>
 Open Source to <br> 
 <span style="margin-left:85px;"></span>observe a volcanic eruption on a global scale in near real time. Abstract EGU22-13582 presented at EGU, <br>
 <span style="margin-left:85px;"></span>Vienna, Austria.
-<a href=https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html>Link here.</a>
+   <a href=https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html>Link here.</a>
 </p>
+
 
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from

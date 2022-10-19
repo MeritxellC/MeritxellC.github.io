@@ -37,11 +37,9 @@ the <br>
 Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;
 Department of Earth Science, University of Hawaiʻi<br>
 <span style="margin-left:105px;"></span>&#x2022; Investigated relative timing of events from the Kīlauea volcano eruption in 2018 <br>
-<span style="margin-left:105px;"></span>&#x2022; Examined infrasound data collected at the Infrasound Laboratory (ISLA) of the University
-of <br>
-<span style="margin-left:114px;"></span>Hawai‘i for 50 of the most explosive events during the eruption <br>
-<span style="margin-left:105px;"></span>&#x2022; Analyzed displacement geodetic data and time series from seven GPS stations located
-around <br>
+<span style="margin-left:105px;"></span>&#x2022; Examined infrasound data collected at the Infrasound Laboratory (ISLA) of the University <br>
+<span style="margin-left:114px;"></span>of Hawai‘i for 50 of the most explosive events during the eruption <br>
+<span style="margin-left:105px;"></span>&#x2022; Analyzed displacement geodetic data and time series from seven GPS stations located around <br>
 <span style="margin-left:114px;"></span>the crater provided by the USGS Hawai‘i Volcanos Observatory (HVO) <br>
 </p>
 

@@ -20,14 +20,13 @@ You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 20
 </h3>
 <p>
 2020 (Oct.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Field Systems Engineer and Analyst</strong><br>
-- Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Infrasound Laboratory, Hawaiʻi Institute of Geophysics and Planetology, University of Hawaiʻi<br>
+- Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Infrasound Laboratory, Hawaiʻi Institute of Geophysics and Planetology, U. of Hawaiʻi<br>
 <span style="margin-left:105px;"></span>&#x2022; Built and integrated algorithms for the Infrasound Station I59US as part of 
 the <br>
 <span style="margin-left:114px;"></span>International Monitoring System of the Comprehensive Nuclear-Test Ban Treaty <br>
-<span style="margin-left:105px;"></span>&#x2022; Designed and developed data structures in Python for acoustic source processes,
-propagation, <br>
-<span style="margin-left:114px;"></span>signal and array processing
+<span style="margin-left:105px;"></span>&#x2022; Designed and developed data structures in Python for acoustic source processes, <br>
+<span style="margin-left:114px;"></span>propagation, signal and array processing
 </p>
 
 <p>

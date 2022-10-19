@@ -18,7 +18,7 @@ recently, wrangling the data of the
 
 I earned a B.A. in Physics from Carleton College. During my undergraduate years I participated in research opportunities 
 in physics, such as [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), and in geology, such 
-as [seismic data from the 2018 Kilauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
+as [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
 
 
 ## Other things

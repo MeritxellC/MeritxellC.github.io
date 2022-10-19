@@ -2,8 +2,13 @@
 layout: default
 ---
 
-You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 2022)
+You can find my CV in PDF [here](Meritxell_Colet_CV_PDF.pdf) (last updated: August 2022).
 
+<style type="text/css"> 
+p{ 
+  line-height: 20px; //you can set the line height here 
+} 
+</style>
 
 <h3>
 <u>Education</u>
@@ -29,7 +34,7 @@ the <br>
 
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Undergrad Research Assistant (REU)</strong><br>
-Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;
 Department of Earth Science, University of Hawaiʻi<br>
 <span style="margin-left:105px;"></span>&#x2022; Investigated relative timing of events from the Kīlauea volcano eruption in 2018 <br>
 <span style="margin-left:105px;"></span>&#x2022; Examined infrasound data collected at the Infrasound Laboratory (ISLA) of the University

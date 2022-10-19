@@ -4,7 +4,9 @@ layout: default
 
 You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 2022)
 
-<p><a href="https://google.com/">Google</a> <em class="info">new</em></p>
+<p>
+<a href="https://google.com/">Google</a>
+</p>
 
 
 <h3>

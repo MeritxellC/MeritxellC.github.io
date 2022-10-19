@@ -149,7 +149,7 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 </h3>
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; <br>
-1 - 4 Jul.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R/V Kilo Moana, PI Jasper Konter
+1 - 4 Jul.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R/V Kilo Moana, PI Jasper Konter
 </p>
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey exercise of San Andreas Fault, Southern California <br>

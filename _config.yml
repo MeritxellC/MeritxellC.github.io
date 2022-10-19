@@ -3,6 +3,8 @@ url: "MeritxellC.github.io"
 baseurl: ""
 
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 #ins_logo: "./bits-logo.png"
 
 remote_theme: ankitsultana/researcher@gem

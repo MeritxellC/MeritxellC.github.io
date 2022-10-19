@@ -80,8 +80,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>,<br>
-<span style="margin-left:85px;"></span>Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the <br>
-<span style="margin-left:85px;"></span>Stratosphere: Signals, 3(2), 209-234. 
+<span style="margin-left:90px;"></span>Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from <br>
+<span style="margin-left:90px;"></span>the Stratosphere: Signals, 3(2), 209-234. 
 
 <a href="https://www.mdpi.com/2624-6120/3/2/14/htm">https://doi.org/10.3390/signals3020014</a>
 
@@ -89,8 +89,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 
 <p>
 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex <br>
-<span style="margin-left:85px;"></span>Dynamics of aSemiconductor Laser with Feedback: Scientific Reports, 8, 10741.
-<span style="margin-left:85px;"></span><a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
+<span style="margin-left:90px;"></span>Dynamics of aSemiconductor Laser with Feedback: Scientific Reports, 8, 10741.
+<span style="margin-left:90px;"></span><a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
 </p>
 
 <h3>
@@ -107,8 +107,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from <br>
-<span style="margin-left:85px;"></span>Kīlauea 2018 caldera collapse. Abstract V43C-0202 presented at AGU Fall Meeting, San Francisco, CA (poster).
-<a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
+<span style="margin-left:85px;"></span>Kīlauea 2018 caldera collapse. Abstract V43C-0202 presented at AGU Fall Meeting, 
+<span style="margin-left:85px;"></span>San Francisco, CA (poster). <a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
 </p>
 
 <p>
@@ -119,7 +119,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 
 <p>
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics <br>
-<span style="margin-left:85px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton College (poster).
+<span style="margin-left:85px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton 
+<span style="margin-left:85px;"></span>College (poster).
 </p>
 
 <h3>
@@ -145,11 +146,11 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 </h3>
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; <br>
-1st - 4th Jul.&nbsp;&nbsp;&nbsp;R/V Kilo Moana, PI Jasper Konter
+1 - 4 Jul.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R/V Kilo Moana, PI Jasper Konter
 </p>
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey exercise of San Andreas Fault, Southern California <br>
-8th - 11th Feb.
+8 - 11 Feb.
 </p>
 
 

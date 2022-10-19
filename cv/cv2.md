@@ -44,7 +44,7 @@ p{
     <p>2019</p>
   </div>
   <div class="column right">
-    <hr style="color:#f8f8f8";>
+    <h3 style="color:#f8f8f8">a</h3>
     <br style="line-height:6">
     <p>
         <strong>Carleton College</strong>, Northfield, MN <br>

@@ -9,6 +9,10 @@ p{
   line-height: 20px; //you can set the line height here 
 } 
 </style>
+div {
+text-align: justify;
+text-justify: inter-word;
+}
 
 <h3>
 <u>Education</u>
@@ -71,7 +75,7 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 </p>
 
 <p>
-2017 - 2020&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College<br>
+2017 - 2020&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College<br>
 </p>
 
 <h3>
@@ -88,8 +92,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 </p>
 
 <p>
-2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex <br>
-<span style="margin-left:90px;"></span>Dynamics of aSemiconductor Laser with Feedback: Scientific Reports, 8, 10741.
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex Dynamics<br>
+<span style="margin-left:90px;"></span>of a Semiconductor Laser with Feedback: Scientific Reports, 8, 10741.
 <span style="margin-left:90px;"></span><a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
 </p>
 
@@ -99,28 +103,28 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using <br> 
-<span style="margin-left:85px;"></span>Open Source to observe a volcanic eruption on a global scale in near real time. Abstract <br>
-<span style="margin-left:85px;"></span>EGU22-13582 presented at EGU, Vienna, Austria.
+<span style="margin-left:90px;"></span>Open Source to observe a volcanic eruption on a global scale in near real time. Abstract <br>
+<span style="margin-left:90px;"></span>EGU22-13582 presented at EGU, Vienna, Austria.
 <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html">Link here.</a>
 </p>
 
 
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from <br>
-<span style="margin-left:85px;"></span>Kīlauea 2018 caldera collapse. Abstract V43C-0202 presented at AGU Fall Meeting, 
-<span style="margin-left:85px;"></span>San Francisco, CA (poster). <a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
+<span style="margin-left:90px;"></span>Kīlauea 2018 caldera collapse. Abstract V43C-0202 presented at AGU Fall Meeting, 
+<span style="margin-left:90px;"></span>San Francisco, CA (poster). <a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
 </p>
 
 <p>
 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong>, Fischer, I., & Soriano, M. C., 2018. Analysing the complex dynamics of <br> 
-<span style="margin-left:85px;"></span>semiconductor lasers with state-dependent delay. Presented at Summer Research Symposium, 
-<span style="margin-left:85px;"></span>Carleton College (poster).
+<span style="margin-left:90px;"></span>semiconductor lasers with state-dependent delay. Presented at Summer Research Symposium, 
+<span style="margin-left:90px;"></span>Carleton College (poster).
 </p>
 
 <p>
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics <br>
-<span style="margin-left:85px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton 
-<span style="margin-left:85px;"></span>College (poster).
+<span style="margin-left:90px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton 
+<span style="margin-left:90px;"></span>College (poster).
 </p>
 
 <h3>

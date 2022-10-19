@@ -41,10 +41,10 @@ p{
     <br style="line-height:2">
     <h3><u>Research Experience</u></h3>
     <p>2020 - Present</p>
-    <br style="line-height:1">
     <p>2019</p>
   </div>
   <div class="column right">
+    <hr style="color:#f8f8f8";>
     <br style="line-height:6">
     <p>
         <strong>Carleton College</strong>, Northfield, MN <br>

@@ -82,9 +82,9 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 <strong>Colet, M.</strong>, Takazawa, S., <br>
 <span style="margin-left:85px;"></span>& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere: Signals, <br>
 <span style="margin-left:85px;"></span>3(2), 209-234. 
-<div markdown="1">
-[https://doi.org/10.3390/signals3020014](https://www.mdpi.com/2624-6120/3/2/14/htm)
-</div>
+
+<a href=https://www.mdpi.com/2624-6120/3/2/14/htm>https://doi.org/10.3390/signals3020014</a>
+
 </p>
 
 <p>

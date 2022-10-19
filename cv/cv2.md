@@ -45,12 +45,12 @@ p{
     <p>2019</p>
   </div>
   <div class="column right">
-    <br style="line-height:3">
+    <br style="line-height:6">
     <p>
         <strong>Carleton College</strong>, Northfield, MN <br>
          Bachelor of Arts in Physics, minor in Art History
     </p>
-    <br style="line-height:3">
+    <br style="line-height:6">
     <p>
         <strong>Field Systems Engineer and Analyst</strong><br>
         Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>

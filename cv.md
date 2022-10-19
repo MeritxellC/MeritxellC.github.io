@@ -4,9 +4,7 @@ layout: default
 
 You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 2022)
 
-<html>
 
-<body>
 
 
 <h3>
@@ -84,7 +82,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>, Takazawa, S., <br>
 <span style="margin-left:85px;"></span>& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere: Signals, <br>
-<span style="margin-left:85px;"></span>3(2), 209-234. <a href=https://www.mdpi.com/2624-6120/3/2/14/htm>https://doi.org/10.3390/signals3020014</a>
+<span style="margin-left:85px;"></span>3(2), 209-234. 
+  <a href=https://www.mdpi.com/2624-6120/3/2/14/htm>https://doi.org/10.3390/signals3020014</a>
 </p>
 
 <p>
@@ -156,6 +155,5 @@ of a Semiconductor <br>
 8th - 11th Feb.
 </p>
 
-</body>
-</html>
+
 

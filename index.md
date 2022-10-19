@@ -31,6 +31,6 @@ as [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/
 Other things
 </h3>
 
-- The base for my [website template](https://github.com/ankitsultana/researcher), by Ankit Sultana, and the heavily influenced
-by [Maria Antoniiak](https://maria-antoniak.github.io), all credits to her!
+- The base for my [website template](https://github.com/ankitsultana/researcher), by Ankit Sultana, and heavily influenced
+by [Maria Antoniiak](https://maria-antoniak.github.io), all credit to her!
 

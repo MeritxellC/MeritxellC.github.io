@@ -9,6 +9,8 @@ layout: default
 About
 </h3>
 
+<br style="line-height:3">
+
 I am a Field System Engineer and Analyst at the Infrasound Lab (ISLA) at the 
 [University of Hawaiʻi (UH)](https://www.hawaii.edu/). At UH, I am affiliated with the 
 [Hawaiʻi Institute of Geophysics and Planetology](https://www.higp.hawaii.edu/) and the 

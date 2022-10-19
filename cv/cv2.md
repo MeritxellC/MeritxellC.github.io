@@ -50,6 +50,7 @@ p{
         <strong>Carleton College</strong>, Northfield, MN <br>
          Bachelor of Arts in Physics, minor in Art History
     </p>
+    <p>&nbsp;</p>
     <p>
         <strong>Field Systems Engineer and Analyst</strong><br>
         Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>

@@ -3,7 +3,7 @@ layout: default
 ---
 <br style="line-height:3">
 
-<img src="./img/kilauea_photo_trim.JPG" alt="Meri at Kīlauea volcano">
+<img src="./img/kilauea_photo_trim.jpg" alt="Meri at Kīlauea volcano">
 
 <br style="line-height:3">
 

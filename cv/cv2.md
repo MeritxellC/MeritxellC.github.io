@@ -46,6 +46,7 @@ p{
   </div>
   <div class="column right">
     <p>&nbsp;</p>
+    <p>&nbsp;</p>
     <p>
         <strong>Carleton College</strong>, Northfield, MN <br>
          Bachelor of Arts in Physics, minor in Art History

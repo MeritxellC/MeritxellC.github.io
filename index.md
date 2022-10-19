@@ -16,14 +16,15 @@ About
 [Hawaiʻi Institute of Geophysics and Planetology](https://www.higp.hawaii.edu/) and the 
 [School of Ocean and Earth Science and Technology](https://www.soest.hawaii.edu/soestwp/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;At ISLA, I build algorithms for geoscience research, such as signals from the 
+&nbsp;&nbsp;&nbsp;&nbsp;At ISLA, I build algorithms for geoscience research, such as examining signals from the 
 [IMS Infrasound Network](https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring), or more 
 recently, wrangling the data of the 
 [2022 Tonga eruption](https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%27apai_eruption_and_tsunami).
 
-&nbsp;&nbsp;&nbsp;&nbsp;I earned a B.A. in Physics from Carleton College. During my undergraduate years I participated in research opportunities 
-in physics, such as [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), and in geology, such 
-as [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
+&nbsp;&nbsp;&nbsp;&nbsp;I earned a B.A. in Physics from Carleton College. During my undergraduate years I participated in 
+physics research opportunities, such as exploring the [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), 
+and geology research, such 
+as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
 
 <br style="line-height:3">
 

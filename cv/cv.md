@@ -84,8 +84,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>,<br>
-<span style="margin-left:90px;"></span>Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from <br>
-<span style="margin-left:90px;"></span>the Stratosphere: Signals, 3(2), 209-234. 
+<span style="margin-left:95px;"></span>Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from <br>
+<span style="margin-left:95px;"></span>the Stratosphere: Signals, 3(2), 209-234. 
 
 <a href="https://www.mdpi.com/2624-6120/3/2/14/htm">https://doi.org/10.3390/signals3020014</a>
 
@@ -123,8 +123,8 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 
 <p>
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics <br>
-<span style="margin-left:90px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton 
-<span style="margin-left:90px;"></span>College (poster).
+<span style="margin-left:90px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, <br>
+<span style="margin-left:90px;"></span>Carleton College (poster).
 </p>
 
 <h3>

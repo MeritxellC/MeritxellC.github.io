@@ -23,8 +23,8 @@ You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 20
 - Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Infrasound Laboratory, Hawaiʻi Institute of Geophysics and Planetology, University of Hawaiʻi<br>
 <span style="margin-left:105px;"></span>&#x2022; Built and integrated algorithms for the Infrasound Station I59US as part of 
-the International <br>
-<span style="margin-left:114px;"></span>Monitoring System of the Comprehensive Nuclear-Test Ban Treaty <br>
+the <br>
+<span style="margin-left:114px;"></span>International Monitoring System of the Comprehensive Nuclear-Test Ban Treaty <br>
 <span style="margin-left:105px;"></span>&#x2022; Designed and developed data structures in Python for acoustic source processes,
 propagation, <br>
 <span style="margin-left:114px;"></span>signal and array processing

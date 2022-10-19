@@ -36,28 +36,30 @@ p{
 
 <div class="row">
   <div class="column left">
-    <h3><u>Education</u></h3>
+    <p><u>Education</u></p>
     <p>2016 - 2020</p>
-    <br style="line-height:2">
-    <h3><u>Research Experience</u></h3>
+    <p><u>Research Experience</u></p>
     <p>2020 - Present</p>
+    <p>&nbsp;</p>
     <p>2019</p>
   </div>
   <div class="column right">
-    <h3 style="color:#f8f8f8">a</h3>
-    <br style="line-height:6">
+    <p>&nbsp;</p>
     <p>
         <strong>Carleton College</strong>, Northfield, MN <br>
          Bachelor of Arts in Physics, minor in Art History
     </p>
-    <br style="line-height:6">
+    <p>&nbsp;</p>
     <p>
         <strong>Field Systems Engineer and Analyst</strong><br>
         Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>
-        <br>
+    </p>
+    <p>
         <strong>Undergrad Research Assistant (REU)</strong><br>
         Department of Earth Science, University of Hawaiʻi<br>
     </p>
   </div>
 </div>
+
+
 

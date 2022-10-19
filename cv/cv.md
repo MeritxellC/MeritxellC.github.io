@@ -80,18 +80,17 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>,<br>
-<span style="margin-left:85px;"></span>Takazawa, S.,& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere:  <br>
-<span style="margin-left:85px;"></span>Signals, 3(2), 209-234. 
+<span style="margin-left:85px;"></span>Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the <br>
+<span style="margin-left:85px;"></span>Stratosphere: Signals, 3(2), 209-234. 
 
 <a href="https://www.mdpi.com/2624-6120/3/2/14/htm">https://doi.org/10.3390/signals3020014</a>
 
 </p>
 
 <p>
-2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex Dynamics of
-a <br> 
-<span style="margin-left:85px;"></span>Semiconductor Laser with Feedback: Scientific Reports, 8, 10741.
-<a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex <br>
+<span style="margin-left:85px;"></span>Dynamics of aSemiconductor Laser with Feedback: Scientific Reports, 8, 10741.
+<span style="margin-left:85px;"></span><a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
 </p>
 
 <h3>
@@ -100,8 +99,8 @@ a <br>
 
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using <br> 
-<span style="margin-left:85px;"></span>Open Source to observe a volcanic eruption on a global scale in near real time. Abstract EGU22-13582 <br>
-<span style="margin-left:85px;"></span>presented at EGU, Vienna, Austria.
+<span style="margin-left:85px;"></span>Open Source to observe a volcanic eruption on a global scale in near real time. Abstract <br>
+<span style="margin-left:85px;"></span>EGU22-13582 presented at EGU, Vienna, Austria.
 <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html">Link here.</a>
 </p>
 
@@ -109,7 +108,7 @@ a <br>
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from <br>
 <span style="margin-left:85px;"></span>Kīlauea 2018 caldera collapse. Abstract V43C-0202 presented at AGU Fall Meeting, San Francisco, CA (poster).
-<span style="margin-left:85px;"></span><a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
+<a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
 </p>
 
 <p>
@@ -120,8 +119,7 @@ a <br>
 
 <p>
 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics <br>
-<span style="margin-left:85px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton College 
-<span style="margin-left:85px;"></span>(poster).
+<span style="margin-left:85px;"></span>of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton College (poster).
 </p>
 
 <h3>
@@ -146,8 +144,8 @@ a <br>
 <u>Fieldwork</u>
 </h3>
 <p>
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; R/V Kilo Moana <br>
-1st - 4th Jul.&nbsp;&nbsp;&nbsp;PI Jasper Konter
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; <br>
+1st - 4th Jul.&nbsp;&nbsp;&nbsp;R/V Kilo Moana, PI Jasper Konter
 </p>
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey exercise of San Andreas Fault, Southern California <br>

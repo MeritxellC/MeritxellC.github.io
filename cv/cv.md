@@ -13,13 +13,15 @@ p{
 </style>
 
 
-<p><u>Education</u></p>
+<h4><u>Education</u></h4>
 <p>
 <strong>Carleton College</strong>, Northfield, MN (2016 - 2020)<br>
 Bachelor of Arts in Physics, minor in Art History
 </p>
 
-<p><u>Research Experience</u></p>
+<br style="line-height:2">
+
+<h4><u>Research Experience</u></h4>
 <p>
 <strong>Field Systems Engineer and Analyst</strong> (2020 - Present)<br>
 Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>
@@ -39,8 +41,9 @@ Institute of Cross-Disciplinary Physics and Complex Systems, Uni. de les Illes B
 <strong>Undergrad Research Assistant</strong> (Summer 2017)<br>
 Department of Physics and Astronomy, Carleton College
 </p>
+<br style="line-height:2">
 
-<p><u>Teaching Experience</u></p>
+<h4><u>Teaching Experience</u></h4>
 <p>
 <strong>Co-mentor</strong>, Earth Science on Volcanic Islands REU, University of Hawaiʻi (Summer 2022)<br>
 Project: Secondary Lamb Waves from the 2022 Tonga Eruption
@@ -50,7 +53,9 @@ Project: Secondary Lamb Waves from the 2022 Tonga Eruption
 <strong>Teaching Assistant</strong>, Spanish Department, Carleton College (2017 - 2020)<br>
 </p>
 
-<p><u>Publications</u></p>
+<br style="line-height:2">
+
+<h4><u>Publications</u></h4>
 <p>
 Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>, Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from 
@@ -64,6 +69,7 @@ Laser with Feedback: Scientific Reports, 8, 10741.
 <a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
 </p>
 
+<br style="line-height:2">
 <p><u>Conference presentations</u></p>
 
 <p>
@@ -89,7 +95,9 @@ semiconductor lasers with state-dependent delay. Presented at Summer Research Sy
 of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton College (poster).
 </p>
 
-<p><u>Honors and Awards</u></p>
+<br style="line-height:2">
+
+<h4><u>Honors and Awards</u></h4>
 
 <p>
 <strong>Sigma Xi</strong>, Carleton College, 2020 <br>
@@ -97,13 +105,17 @@ of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, 
 <strong>Townsley Endowment for the Sciences</strong>, Carleton College, 2017 & 2018 <br>
 </p>
 
-<p><u>Technical Skills</u></p>
+<br style="line-height:2">
+
+<h4><u>Technical Skills</u></h4>
 <p>
 <strong>Coding</strong>: Python (<em>inc. ObsPy, NumPy, pandas, PyGMT, Cartopy</em>), MATLAB, LaTeX, Wolfram Mathematica <br>
 <strong>Software</strong>: ArcGIS, GitHub (inc. Actions), macOS, Linux, Windows
 </p>
 
-<p><u>Fieldwork</u></p>
+<br style="line-height:2">
+
+<h4><u>Fieldwork</u></h4>
 <p>
 Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; R/V Kilo Moana, PI Jasper 
 Konter (1-4 Jul. 2019) <br>

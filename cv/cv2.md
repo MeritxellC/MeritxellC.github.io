@@ -38,6 +38,7 @@ p{
   <div class="column left">
     <p><u>Education</u></p>
     <p>2016 - 2020</p>
+    <p>&nbsp;</p>
     <p><u>Research Experience</u></p>
     <p>2020 - Present</p>
     <p>&nbsp;</p>
@@ -49,7 +50,6 @@ p{
         <strong>Carleton College</strong>, Northfield, MN <br>
          Bachelor of Arts in Physics, minor in Art History
     </p>
-    <p>&nbsp;</p>
     <p>
         <strong>Field Systems Engineer and Analyst</strong><br>
         Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>

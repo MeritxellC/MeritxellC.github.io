@@ -38,7 +38,7 @@ p{
   <div class="column left">
     <p><u>Education</u></p>
     <p>2016 - 2020</p>
-    <p><br style="line-height:1.5"></p>
+    <p><br style="line-height:2"></p>
     <p><u>Research Experience</u></p>
     <p>2020 - Present</p>
     <p><br style="line-height:1.5"></p>

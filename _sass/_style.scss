@@ -17,10 +17,10 @@ body {
     font-weight: lighter;
 }
 a {
-    text-decoration: underline;
-    text-decoration-color: #C49464;
-    text-decoration-thickness: 1px;
-    color: $accent;
+    text-decoration: none;
+//     text-decoration-color: #C49464;
+//     text-decoration-thickness: 1px;
+    color: #C49464;
 }
 a:hover {
     text-decoration: underline;

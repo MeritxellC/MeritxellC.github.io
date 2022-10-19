@@ -9,17 +9,17 @@ You can find my CV in [PDF](Meritxell_Colet_CV_PDF.pdf) (Last updated: August 20
 <body>
 
 
-<h2>
+<h3>
 <u>Education</u>
-</h2>
+</h3>
 <p>
 2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Carleton College</strong>, Northfield, MN <br>
 <span style="margin-left:95px;"></span>Bachelor of Arts in Physics, minor in Art History
 </p>
 
-<h2>
+<h3>
 <u>Research Experience</u>
-</h2>
+</h3>
 <p>
 2020 (Oct.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Field Systems Engineer and Analyst</strong><br>
 - Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,9 +63,9 @@ dual <br>
 <span style="margin-left:105px;"></span>&#x2022; Continued project as an Independent Study through Jan. – Mar. 2018 <br>
 </p>
 
-<h2>
+<h3>
 <u>Teaching Experience</u>
-</h2>
+</h3>
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands REU, University of Hawaiʻi<br>
 Jun. - Aug.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,14 +77,14 @@ PI: Milton Garcés, student: Nicholas Forcone<br>
 2017 - 2020&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College<br>
 </p>
 
-<h2>
+<h3>
 <u>Publications</u>
-</h2>
+</h3>
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>, Takazawa, S., <br>
 <span style="margin-left:85px;"></span>& Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from the Stratosphere: Signals, <br>
-<span style="margin-left:85px;"></span>3(2), 209-234. <a href=https://www.mdpi.com/2624-6120/3/2/14/htm>https://doi.org/10.3390/signals3020014 </a>
+<span style="margin-left:85px;"></span>3(2), 209-234. <a href=https://www.mdpi.com/2624-6120/3/2/14/htm>https://doi.org/10.3390/signals3020014</a>
 </p>
 
 <p>
@@ -94,9 +94,9 @@ a Semiconductor <br>
 <a href=https://www.nature.com/articles/s41598-018-29110-5>https://doi.org/10.1038/s41598-018-29110-5</a>
 </p>
 
-<h2>
+<h3>
 <u>Conference presentations</u>
-</h2>
+</h3>
 
 <p>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using
@@ -125,9 +125,9 @@ of a Semiconductor <br>
 <span style="margin-left:85px;"></span>Laser with Feedback. Presented at Summer Research Symposium, Carleton College (poster).
 </p>
 
-<h2>
+<h3>
 <u>Honors and Awards</u>
-</h2>
+</h3>
 
 <p>
 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sigma Xi</strong>, Carleton College <br>
@@ -135,17 +135,17 @@ of a Semiconductor <br>
 2017/2018&nbsp;&nbsp;&nbsp;&nbsp; <strong>Townsley Endowment for the Sciences</strong>, Carleton College <br>
 </p>
 
-<h2>
+<h3>
 <u>Technical Skills</u>
-</h2>
+</h3>
 <p>
 <strong>Coding</strong>: Python (<em>inc. ObsPy, NumPy, pandas, PyGMT, Cartopy</em>), MATLAB, LaTeX, Wolfram Mathematica <br>
 <strong>Software</strong>: ArcGIS, GitHub (inc. Actions), macOS, Linux, Windows
 </p>
 
-<h2>
+<h3>
 <u>Fieldwork</u>
-</h2>
+</h3>
 <p>
 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, Hawaiʻi; R/V Kilo Moana. <br>
 1st - 4th Jul.&nbsp;&nbsp;&nbsp;PI Jasper Konter

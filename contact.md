@@ -3,24 +3,12 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+[mcolet@hawaii.edu](mcolet@hawaii.edu) (mcolet_at_hawaii_dot_edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+Other ways you can find me:
+- [GitHub](https://github.com/MeritxellC)
+- [Google Scholar](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao)
+- [Research Gate](https://www.researchgate.net/profile/Meritxell-Colet)
+- [LinkedIn](https://www.linkedin.com/in/meritxell-colet)
 
----
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)

@@ -2,44 +2,26 @@
 layout: default
 ---
 
-## About Me
+## About
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am a Field System Engineer and Analyst at the Infrasound Lab (ISLA) at the 
+[University of Hawaiʻi (UH)](https://www.hawaii.edu/). At UH, I am affiliated with the 
+[Hawaiʻi Institute of Geophysics and Planetology](https://www.higp.hawaii.edu/) and the 
+[School of Ocean and Earth Science and Technology](https://www.soest.hawaii.edu/soestwp/).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+At ISLA, I build algorithms for geoscience reserach, such as signals from the 
+[IMS Infrasound Network](https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring), or more 
+recently, wrangling the data of the 
+[2022 Tonga eruption](https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%27apai_eruption_and_tsunami).
 
-## Research Interest
+I earned a B.A. in Physics from Carleton College. During my undergraduate years I participated in research opportunities 
+in physics, such as [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), and geology such 
+as [seismic data from the 2018 Kilauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+## Other things
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- The base for my [website template](https://github.com/ankitsultana/researcher), by Ankit Sultana.
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

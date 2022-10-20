@@ -2,7 +2,7 @@ title: Meritxell Colet
 url: "MeritxellC.github.io"
 baseurl: ""
 
-favicon: "./img/favicon.png"
+favicon: ./img/favicon.png
 
 markdown: kramdown
 #ins_logo: "./img/favicon.png"

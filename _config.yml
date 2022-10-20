@@ -2,8 +2,10 @@ title: Meritxell Colet
 url: "MeritxellC.github.io"
 baseurl: ""
 
+favicon: "./img/favicon.png"
+
 markdown: kramdown
-ins_logo: "./img/favicon.png"
+#ins_logo: "./img/favicon.png"
 
 remote_theme: ankitsultana/researcher@gem
 

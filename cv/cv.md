@@ -72,14 +72,13 @@ Laser with Feedback: Scientific Reports, 8, 10741.
 </p>
 
 <br style="line-height:2">
-<p><u>Conference presentations</u></p>
+<h3><u>Conference presentations</u></h3>
 
 <p>
 Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using 
 Open Source to observe a volcanic eruption on a global scale in near real time. Abstract EGU22-13582 presented at EGU,
 Vienna, Austria. <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html">Link here.</a>
 </p>
-
 
 <p>
 <strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from 

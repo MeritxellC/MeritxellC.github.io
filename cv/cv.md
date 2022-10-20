@@ -2,7 +2,9 @@
 layout: default
 ---
 
-You can find my CV in PDF [here](Meritxell_Colet_CV_PDF.pdf) (last updated: August 2022).
+You can find my full CV in PDF [here](Meritxell_Colet_CV_PDF.pdf).
+
+<br style="line-height:3">
 
 <style type="text/css"> 
 p{ 
@@ -13,15 +15,15 @@ p{
 </style>
 
 
-<h4><u>Education</u></h4>
+<h3><u>Education</u></h3>
 <p>
 <strong>Carleton College</strong>, Northfield, MN (2016 - 2020)<br>
 Bachelor of Arts in Physics, minor in Art History
 </p>
 
-<br style="line-height:2">
+<br style="line-height:1.5">
 
-<h4><u>Research Experience</u></h4>
+<h3><u>Research Experience</u></h3>
 <p>
 <strong>Field Systems Engineer and Analyst</strong> (2020 - Present)<br>
 Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>
@@ -43,7 +45,7 @@ Department of Physics and Astronomy, Carleton College
 </p>
 <br style="line-height:2">
 
-<h4><u>Teaching Experience</u></h4>
+<h3><u>Teaching Experience</u></h3>
 <p>
 <strong>Co-mentor</strong>, Earth Science on Volcanic Islands REU, University of Hawaiʻi (Summer 2022)<br>
 Project: Secondary Lamb Waves from the 2022 Tonga Eruption
@@ -55,11 +57,11 @@ Project: Secondary Lamb Waves from the 2022 Tonga Eruption
 
 <br style="line-height:2">
 
-<h4><u>Publications</u></h4>
+<h3><u>Publications</u></h3>
 <p>
 Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>, Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from 
-the Stratosphere: Signals, 3(2), 209-234
+the Stratosphere: Signals, 3(2), 209-234.
 <a href="https://www.mdpi.com/2624-6120/3/2/14/htm">https://doi.org/10.3390/signals3020014</a>
 </p>
 
@@ -97,7 +99,7 @@ of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, 
 
 <br style="line-height:2">
 
-<h4><u>Honors and Awards</u></h4>
+<h3><u>Honors and Awards</u></h3>
 
 <p>
 <strong>Sigma Xi</strong>, Carleton College, 2020 <br>
@@ -107,7 +109,7 @@ of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, 
 
 <br style="line-height:2">
 
-<h4><u>Technical Skills</u></h4>
+<h3><u>Technical Skills</u></h3>
 <p>
 <strong>Coding</strong>: Python (<em>inc. ObsPy, NumPy, pandas, PyGMT, Cartopy</em>), MATLAB, LaTeX, Wolfram Mathematica <br>
 <strong>Software</strong>: ArcGIS, GitHub (inc. Actions), macOS, Linux, Windows
@@ -115,7 +117,7 @@ of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, 
 
 <br style="line-height:2">
 
-<h4><u>Fieldwork</u></h4>
+<h3><u>Fieldwork</u></h3>
 <p>
 Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; R/V Kilo Moana, PI Jasper 
 Konter (1-4 Jul. 2019) <br>

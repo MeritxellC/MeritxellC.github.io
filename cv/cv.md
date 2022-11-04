@@ -45,19 +45,12 @@ Department of Physics and Astronomy, Carleton College
 </p>
 <br style="line-height:2">
 
-<h3><u>Teaching Experience</u></h3>
-<p>
-<strong>Co-mentor</strong>, Earth Science on Volcanic Islands REU, University of Hawaiʻi (Summer 2022)<br>
-Project: Secondary Lamb Waves from the 2022 Tonga Eruption
-</p>
-
-<p>
-<strong>Teaching Assistant</strong>, Spanish Department, Carleton College (2017 - 2020)<br>
-</p>
-
-<br style="line-height:2">
-
 <h3><u>Publications</u></h3>
+<p>
+Garcés, M. A., Williams, B. & <strong>Colet, M.</strong>, 2022. Near-field source effects of the Tonga Lamb wave. 
+<i>Submitted for review.</i>
+</p>
+
 <p>
 Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
 <strong>Colet, M.</strong>, Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from 
@@ -72,7 +65,7 @@ Laser with Feedback: Scientific Reports, 8, 10741.
 </p>
 
 <br style="line-height:2">
-<h3><u>Conference presentations</u></h3>
+<h3><u>Conference Presentations</u></h3>
 
 <p>
 Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using 
@@ -94,6 +87,18 @@ semiconductor lasers with state-dependent delay. Presented at Summer Research Sy
 <p>
 <strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics 
 of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton College (poster).
+</p>
+
+<br style="line-height:2">
+
+<h3><u>Teaching Experience</u></h3>
+<p>
+<strong>Co-mentor</strong>, Earth Science on Volcanic Islands REU, University of Hawaiʻi (Summer 2022)<br>
+Project: Secondary Lamb Waves from the 2022 Tonga Eruption
+</p>
+
+<p>
+<strong>Teaching Assistant</strong>, Spanish Department, Carleton College (2017 - 2020)<br>
 </p>
 
 <br style="line-height:2">

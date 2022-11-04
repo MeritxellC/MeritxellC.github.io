@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<p>
+Garcés, M. A., Williams, B. & <strong>Colet, M.</strong>, 2022. Near-field source effects of the Tonga Lamb wave. 
+<i>Submitted for review.</i>
+</p>
+
 
 <p><a href="https://www.mdpi.com/2624-6120/3/2/14"><strong>Skyfall: Signal Fusion from a Smartphone Falling from the Stratosphere</strong></a>
 <br>

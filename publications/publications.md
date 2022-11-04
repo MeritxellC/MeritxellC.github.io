@@ -3,7 +3,7 @@ layout: default
 ---
 <p>
 Near-field source effects of the Tonga Lamb wave  <br>
-Garcés, M. A., Williams, B. & <strong>Colet, M.</strong> (2022) <br>
+Milton A Garcés, Brian Williams, Meritxell Colet (2022) <br>
 <i>Submitted for review.</i>
 </p>
 

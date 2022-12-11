@@ -109,6 +109,7 @@ Project: Secondary Lamb Waves from the 2022 Tonga Eruption
 <strong>Sigma Xi</strong>, Carleton College, 2020 <br>
 <strong>NASA’s MN Space Grant Consortium</strong>, Carleton College, 2018 <br>
 <strong>Townsley Endowment for the Sciences</strong>, Carleton College, 2017 & 2018 <br>
+<strong>FOCUS Cohort Class of 2020</strong>, Carleton College, 2017 - 2020 <br>
 </p>
 
 <br style="line-height:2">

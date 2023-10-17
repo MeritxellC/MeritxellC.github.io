@@ -11,7 +11,7 @@ layout: default
 About
 </h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am  PhD student working with Dr. Kolawole in the 
+&nbsp;&nbsp;&nbsp;&nbsp;I am a PhD student working with Dr. Kolawole in the 
 [Crustal Deformation Group](https://www.folarinkolawole.com) at [Lamont-Doherty Earth Observatory](https://lamont.columbia.edu). 
 My research focuses on integrating field structural geology, seismology and numerical modeling to understand how 
 continental rift segments propagate in space and time, and the mechanics of rift interaction and linkage.

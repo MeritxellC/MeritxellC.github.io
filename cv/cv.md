@@ -17,6 +17,11 @@ p{
 
 <h3><u>Education</u></h3>
 <p>
+<strong>Columbia University</strong>, New York, NY (2023 - Expected 2028)<br>
+Ph.D. in Earth and Environmental Sciences
+</p>
+
+<p>
 <strong>Carleton College</strong>, Northfield, MN (2016 - 2020)<br>
 Bachelor of Arts in Physics, minor in Art History
 </p>
@@ -25,7 +30,7 @@ Bachelor of Arts in Physics, minor in Art History
 
 <h3><u>Research Experience</u></h3>
 <p>
-<strong>Field Systems Engineer and Analyst</strong> (2020 - Present)<br>
+<strong>Field Systems Engineer and Analyst</strong> (2020 - 2023)<br>
 Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>
 </p>
 

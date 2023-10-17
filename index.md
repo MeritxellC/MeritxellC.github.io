@@ -10,13 +10,15 @@ layout: default
 <h3>
 About
 </h3>
+&nbsp;&nbsp;&nbsp;&nbsp;I am  PhD student working with Dr. Kolawole in the 
+[Crustal Deformation Group](https://www.folarinkolawole.com) at [Lamont-Doherty Earth Observatory](https://lamont.columbia.edu). 
+My research focuses on integrating field structural geology, seismology and numerical modeling to understand how 
+continental rift segments propagate in space and time, and the mechanics of rift interaction and linkage.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am a Field System Engineer and Analyst at the Infrasound Lab (ISLA) at the 
-[University of Hawaiʻi (UH)](https://www.hawaii.edu/). At UH, I am affiliated with the 
-[Hawaiʻi Institute of Geophysics and Planetology](https://www.higp.hawaii.edu/) and the 
-[School of Ocean and Earth Science and Technology](https://www.soest.hawaii.edu/soestwp/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;At ISLA, I build algorithms for geoscience research, such as examining signals from the 
+&nbsp;&nbsp;&nbsp;&nbsp;My previous work at the Infrasound Lab (ISLA) at the 
+[University of Hawaiʻi](https://www.hawaii.edu/) involved building algorithms for geoscience research, such as examining 
+signals from the 
 [IMS Infrasound Network](https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring), or more 
 recently, wrangling the data of the 
 [2022 Tonga eruption](https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%27apai_eruption_and_tsunami).

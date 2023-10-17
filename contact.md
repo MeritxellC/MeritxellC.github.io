@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-Email: mcolet@hawaii.edu (mcolet at hawaii dot edu)
+Email: m.colet@columbia.edu (m.colet at columbia dot edu)
 
 Other ways you can find me:
 - [GitHub](https://github.com/MeritxellC)

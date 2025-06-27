@@ -15,124 +15,75 @@ p{
 </style>
 
 
-<h3><u>Education</u></h3>
+<p><b>Education</b></p>
 <p>
-<strong>Columbia University</strong>, New York, NY (2023 - Expected 2028)<br>
-Ph.D. in Earth and Environmental Sciences
+<b>Columbia University,</b> New York, NY (2023 - Expected 2028)<br>
+Ph.D. in Geophysics<br>
+Emphases: Active Tectonics, Structural Geology, Seismology, Geophysics<br>
 </p>
 
 <p>
-<strong>Carleton College</strong>, Northfield, MN (2016 - 2020)<br>
-Bachelor of Arts in Physics, minor in Art History
+<b>Carleton College</b>, Northfield, MN (2016-2020)<br>
+B.A. in Physics, minor in Art History
 </p>
 
 <br style="line-height:1.5">
 
-<h3><u>Research Experience</u></h3>
+<p><b>Previous Research Experience</b></p>
 <p>
-<strong>Field Systems Engineer and Analyst</strong> (2020 - 2023)<br>
-Infrasound Laboratory, Hawaiʻi Inst. of Geophysics and Planetology, University of Hawaiʻi<br>
+Field Systems Engineer and Analyst (2020 - 2023)<br>
+<i> Infrasound Laboratory, Hawaiʻi Institute of Geophysics and Planetology, 
+University of Hawaiʻi </i><br>
 </p>
 
 <p>
-<strong>Undergrad Research Assistant (REU)</strong> (Summer 2019)<br>
-Department of Earth Science, University of Hawaiʻi<br>
+Undergrad Research Assistant (NSF-REU) (Summer 2019)<br>
+<i> Dept. of Earth Science, University of Hawaiʻi </i><br>
 </p>
 
 <p>
-<strong>Undergrad Research Assistant</strong> (Summer 2018)<br>
-Institute of Cross-Disciplinary Physics and Complex Systems, Uni. de les Illes Balears, Spain<br>
+Undergrad Research Assistant (Summer 2018)<br>
+<i> Institute of Cross-Disciplinary Physics and Complex Systems, 
+Uni. de les Illes Balears, Spain </i><br>
 </p>
 
 <p>
-<strong>Undergrad Research Assistant</strong> (Summer 2017)<br>
-Department of Physics and Astronomy, Carleton College
+Undergrad Research Assistant(Summer 2017)<br>
+<i>Dept. of Physics and Astronomy, Carleton College </i>
 </p>
 <br style="line-height:2">
 
-<h3><u>Publications</u></h3>
-<p>
-Garcés, M. A., Williams, B. & <strong>Colet, M.</strong>, 2022. Near-field source effects of the Tonga Lamb wave. 
-<i>Submitted for review.</i>
-</p>
+<p><b>Honors and Awards</b></p>
 
 <p>
-Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., 
-<strong>Colet, M.</strong>, Takazawa, S., & Popenhagen, S., 2022. Skyfall: Signal Fusion of a Smartphone Falling from 
-the Stratosphere: Signals, 3(2), 209-234.
-<a href="https://www.mdpi.com/2624-6120/3/2/14/htm">https://doi.org/10.3390/signals3020014</a>
-</p>
-
-<p>
-<strong>Colet, M.</strong> & Aragoneses, A., 2018. Forecasting Extreme Events in the Complex Dynamics of a Semiconductor 
-Laser with Feedback: Scientific Reports, 8, 10741.
-<a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a>
-</p>
-
-<br style="line-height:2">
-<h3><u>Conference Presentations</u></h3>
-
-<p>
-Eckel, F., Garcés, M., & <strong>Colet, M.</strong>, 2022. The 15 January 2022 Hunga Tonga event: Using 
-Open Source to observe a volcanic eruption on a global scale in near real time. Abstract EGU22-13582 presented at EGU,
-Vienna, Austria. <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-13582.html">Link here.</a>
-</p>
-
-<p>
-<strong>Colet, M.</strong> & Butler, R., 2019. Analysing infrasound, geodetic, and seismic data from 
-Kīlauea 2018 caldera collapse. Abstract V43C-0202 presented at AGU Fall Meeting, San Francisco, CA (poster).
-<a href="https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract">Link here.</a>
-</p>
-
-<p>
-<strong>Colet, M.</strong>, Fischer, I., & Soriano, M. C., 2018. Analysing the complex dynamics of
-semiconductor lasers with state-dependent delay. Presented at Summer Research Symposium, Carleton College (poster).
-</p>
-
-<p>
-<strong>Colet, M.</strong> & Aragoneses, A., 2017. Forecasting Extreme Events in the Complex Dynamics 
-of a Semiconductor Laser with Feedback. Presented at Summer Research Symposium, Carleton College (poster).
+2025 - NSF-GRFP Honorable Mention, Columbia University<br>
+2025 - Lewis and Clark Fund for Exploration and Field Research, Columbia University ($5200)<br>
+2025 - GSA Graduate Student Research Grant, Columbia University ($2450)<br>
+2025 - AAPG Foundation Grants-in-Aid, Columbia University ($1000) <br>
+2020 - Sigma Xi, Carleton College <br>
+2018 - NASA’s MN Space Grant Consortium, Carleton College ($1000)<br>
+2017, 2018 - Townsley Endowment for the Sciences, Carleton College ($5000 each year)<br>
+2017-2020 - FOCUS Cohort Class of 2020, Carleton College<br>
 </p>
 
 <br style="line-height:2">
 
-<h3><u>Teaching Experience</u></h3>
-<p>
-<strong>Co-mentor</strong>, Earth Science on Volcanic Islands REU, University of Hawaiʻi (Summer 2022)<br>
-Project: Secondary Lamb Waves from the 2022 Tonga Eruption
-</p>
-
-<p>
-<strong>Teaching Assistant</strong>, Spanish Department, Carleton College (2017 - 2020)<br>
-</p>
+<p><b>Teaching & Mentoring Experience</b></p>
+2025 Summer - Co-mentor, Earth Intern Program, Columbia University <br>
+2025 Spring - Teaching Assistant, EESC1010: Geological Excursion to Death Valley, Columbia University<br>
+2022 Summer - Co-mentor, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
+2017-2020 - Teaching Assistant, Spanish Department, Carleton College <br>
 
 <br style="line-height:2">
 
-<h3><u>Honors and Awards</u></h3>
 
-<p>
-<strong>Sigma Xi</strong>, Carleton College, 2020 <br>
-<strong>NASA’s MN Space Grant Consortium</strong>, Carleton College, 2018 <br>
-<strong>Townsley Endowment for the Sciences</strong>, Carleton College, 2017 & 2018 <br>
-<strong>FOCUS Cohort Class of 2020</strong>, Carleton College, 2017 - 2020 <br>
-</p>
+<p><b>Academic Service</b></p>
+2025 - present - American Geophysical Union (AGU) Tectonophysics Graduate Student Representative <br>
+2024 - First-Year Colloquium Organizer, Columbia University <br>
+2023 - Open House, Lamont-Doherty Earth Observatory <br>
+2018-2020 - Women* in Physics Mentor, Carleton College <br>
 
-<br style="line-height:2">
 
-<h3><u>Technical Skills</u></h3>
-<p>
-<strong>Coding</strong>: Python (<em>inc. ObsPy, NumPy, pandas, PyGMT, Cartopy</em>), MATLAB, LaTeX, Wolfram Mathematica <br>
-<strong>Software</strong>: ArcGIS, GitHub (inc. Actions), macOS, Linux, Windows
-</p>
-
-<br style="line-height:2">
-
-<h3><u>Fieldwork</u></h3>
-<p>
-Geodetic mapping survey of unsampled submarine volcanic rift zone west of Kaho‘olawe, HI; R/V Kilo Moana, PI Jasper 
-Konter (1-4 Jul. 2019) <br>
-Geodetic mapping survey exercise of San Andreas Fault, Southern California (8-11 Feb. 2019)
-</p>
 
 <br style="line-height:3">
 

@@ -20,11 +20,9 @@ sass:
 nav:
  - name: "About"
    link: "https://meritxellc.github.io"
- - name: "CV"
-   link: "https://meritxellc.github.io/cv/cv"
- - name: "Code"
-   link: "https://github.com/MeritxellC"
  - name: "Publications"
    link: "https://meritxellc.github.io/publications/publications"
+ - name: "CV"
+   link: "https://meritxellc.github.io/cv/cv"
  - name: "Contact"
    link: "https://meritxellc.github.io/contact"

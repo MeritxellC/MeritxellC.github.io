@@ -31,7 +31,7 @@ Emphases: Active Tectonics, Structural Geology, Seismology, Geophysics<br>
 B.A. in Physics, minor in Art History
 </p>
 
-<br style="line-height:1.5">
+<br style="line-height:1">
 
 <p><strong><u>Previous Research Experience</u></strong></p>
 <p>
@@ -55,7 +55,7 @@ Uni. de les Illes Balears, Spain </i><br>
 Undergrad Research Assistant<br>
 <i>Dept. of Physics and Astronomy, Carleton College </i>
 </p>
-<br style="line-height:1.5">
+<br style="line-height:1">
 
 <p><strong><u>Honors and Awards</u></strong></p>
 
@@ -70,7 +70,7 @@ Undergrad Research Assistant<br>
 2017-2020 - FOCUS Cohort Class of 2020, Carleton College<br>
 </p>
 
-<br style="line-height:1.5">
+<br style="line-height:1">
 
 <p><strong><u>Teaching and Mentoring Experience</u></strong></p>
 2025 Summer - Co-mentor, Earth Intern Program, Columbia University <br>
@@ -78,7 +78,7 @@ Undergrad Research Assistant<br>
 2022 Summer - Co-mentor, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
 2017-2020 - Teaching Assistant, Spanish Department, Carleton College <br>
 
-<br style="line-height:1.5">
+<br style="line-height:1">
 
 
 <p><strong><u>Academic Service</u></strong></p>

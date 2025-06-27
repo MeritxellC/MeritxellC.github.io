@@ -32,12 +32,13 @@ Dec. 2025 - American Geophysical Union (AGU) annual conference, New Orleans, LA 
 
 <h3>Other things</h3>
 
+- One of my favorite webpages is [Earth](https://earth.nullschool.net), a project to visualize global weather conditions (and it's
+[open-source](https://github.com/cambecc/earth)!). My favorite Wikipedia page is
+[Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future).
+
 - The base for this website is [researcher](https://github.com/ankitsultana/researcher), by Ankit Sultana, and heavily influenced
 by [Maria Antoniak](https://maria-antoniak.github.io), all credit to her!
 
-- One of favorite webpages is [Earth](https://earth.nullschool.net), a project to visualize global weather conditions (and it's
-[open-source](https://github.com/cambecc/earth)!). My favorite Wikipedia page is
-[Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future).
 
 
 <br style="line-height:3">

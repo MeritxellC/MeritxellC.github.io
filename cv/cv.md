@@ -11,12 +11,13 @@ p{
 } 
 </style>
 
-You can find my full CV in PDF [here](Meritxell_Colet_CV_PDF.pdf).
-
-<br style="line-height:1">
+<b>Full CV</b>: You can find my full CV in PDF [here](Meritxell_Colet_CV_PDF.pdf).
 
 
-<p><strong>Education</strong></p>
+<h3>Abbreviated CV</h3>
+
+
+<p><strong><u>Education</u></strong></p>
 <p>
 <b>Columbia University,</b> New York, NY <br>
 Ph.D. in Geophysics<br>
@@ -30,7 +31,7 @@ B.A. in Physics, minor in Art History
 
 <br style="line-height:1.5">
 
-<p><strong>Previous Research Experience</strong></p>
+<p><strong><u>Previous Research Experience</u></strong></p>
 <p>
 Field Systems Engineer and Analyst <br>
 <i> Infrasound Laboratory, Hawaiʻi Institute of Geophysics and Planetology, 
@@ -54,7 +55,7 @@ Undergrad Research Assistant<br>
 </p>
 <br style="line-height:2">
 
-<p><strong>Honors and Awards</strong></p>
+<p><strong><u>Honors and Awards</u></strong></p>
 
 <p>
 2025 - NSF-GRFP Honorable Mention, Columbia University<br>
@@ -69,7 +70,7 @@ Undergrad Research Assistant<br>
 
 <br style="line-height:2">
 
-<p><strong>Teaching and Mentoring Experience</strong></p>
+<p><strong><u>Teaching and Mentoring Experience</u></strong></p>
 2025 Summer - Co-mentor, Earth Intern Program, Columbia University <br>
 2025 Spring - Teaching Assistant, EESC1010: Geological Excursion to Death Valley, Columbia University<br>
 2022 Summer - Co-mentor, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
@@ -78,7 +79,7 @@ Undergrad Research Assistant<br>
 <br style="line-height:2">
 
 
-<p><strong>Academic Service</strong></p>
+<p><strong><u>Academic Service</u></strong></p>
 2025-present - American Geophysical Union (AGU) Tectonophysics Graduate Student Representative <br>
 2024 - First-Year Colloquium Organizer, Columbia University <br>
 2023 - Open House, Lamont-Doherty Earth Observatory <br>

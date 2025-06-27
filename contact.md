@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-<p>
+
 <b>Email:</b> mcolet@ldeo.columbia.edu <br>
 
 Other ways you can find me:<br>
@@ -11,6 +11,6 @@ Other ways you can find me:<br>
 - [Research Gate](https://www.researchgate.net/profile/Meritxell-Colet)<br>
 - [GitHub](https://github.com/MeritxellC)<br>
 - [LinkedIn](https://www.linkedin.com/in/meritxell-colet)<br>
-</p>
+
 
 

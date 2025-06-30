@@ -21,7 +21,7 @@ Folarin Kolawole, Zachary Foster-Baril, Leonard Seeber, Jacob A. Tielke, Abhishe
 <p><i>Journal Peer-Reviewed</i></p>
 
 <p>
-[3] <b><a href="https://essopenarchive.org/users/857884/articles/1259439-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa?commit=b82447a2ff499eb05055bb700b32f4c54617af3d">Redefining the Nubian-Victoria plate boundary in East Africa: Incipient Reactivation of Failed Rifts and Initiation of a Microplate in D. R. Congo</a></b>
+[3] <b><a href="https://essopenarchive.org/users/857884/articles/1259439-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa?commit=b82447a2ff499eb05055bb700b32f4c54617af3d">Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa</a></b>
 <br>
 <i>Accepted, Tectonics (2025)</i>
 <br>

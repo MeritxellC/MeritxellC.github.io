@@ -4,6 +4,8 @@ layout: default
 
 <b>Google Scholar:</b> You can find my Google Scholar [here](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao).
 
+<br style="line-height:2">
+
 <h3>Publications</h3>
 
 <p><i>Manuscript(s) in review</i></p>

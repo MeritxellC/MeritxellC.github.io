@@ -14,9 +14,8 @@ layout: default
 My research focuses on integrating field structural geology and seismology to understand crustal structure and modes of strain release along evolving continental divergent plate boundaries at different scales. My current research areas include the East African Rift System (Tanzania and Congo) and Northeast Pacific (offshore Oregon, US).
 
 &nbsp;&nbsp;&nbsp;&nbsp;My previous work at the Infrasound Lab (ISLA) at the 
-[University of Hawaiʻi](https://www.hawaii.edu/) involved building algorithms for geoscience research, such as examining 
-signals from the [IMS Infrasound Network](https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring), or wrangling the data of the 
-[2022 Tonga eruption](https://en.wikipedia.org/wiki/2022_Hunga_Tonga%E2%80%93Hunga_Ha%27apai_eruption_and_tsunami).
+[University of Hawaiʻi](https://www.higp.hawaii.edu) involved building algorithms for geoscience research, such as examining 
+signals from the IMS Infrasound Network.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I earned a B.A. in Physics from Carleton College. During my undergraduate years, I participated in 
 physics research opportunities, such as exploring the [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), 
@@ -26,9 +25,8 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <h3>Upcoming Events</h3>
 
-- Oct. 2025: GSA annual conference, San Antonio, TX 
-
-- Dec. 2025: AGU annual conference, New Orleans, LA 
+- Oct. 2025: <b>GSA annual conference</b>, San Antonio, TX 
+- Dec. 2025: <b>AGU annual conference</b>, New Orleans, LA 
 
 <br style="line-height:3">
 

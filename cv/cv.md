@@ -67,7 +67,7 @@ Undergrad Research Assistant<br>
 2020 - Sigma Xi, Carleton College <br>
 2018 - NASA’s MN Space Grant Consortium, Carleton College ($1000)<br>
 2017, 2018 - Townsley Endowment for the Sciences, Carleton College ($5000 each year)<br>
-2017-2020 - FOCUS Cohort Class of 2020, Carleton College<br>
+
 </p>
 
 <br style="line-height:1">
@@ -82,7 +82,7 @@ Undergrad Research Assistant<br>
 
 
 <p><strong><u>Academic Service</u></strong></p>
-2025-present - American Geophysical Union (AGU) Tectonophysics Graduate Student Representative <br>
+2025-present - AGU Tectonophysics Graduate Student Representative <br>
 2024 - First-Year Colloquium Organizer, Columbia University <br>
 2023 - Open House, Lamont-Doherty Earth Observatory <br>
 

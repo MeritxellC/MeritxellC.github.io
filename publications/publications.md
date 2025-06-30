@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<b>Google Scholar:</b> You can find my Google Scholar [here](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao).
+
 <h3>Publications</h3>
 
 <p><i>Manuscript(s) in review</i></p>

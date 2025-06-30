@@ -25,8 +25,10 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 <br style="line-height:3">
 
 <h3>Upcoming Events</h3>
-Oct. 2025 - Geological Society of America (GSA) annual conference, San Antonio, TX <br>
-Dec. 2025 - American Geophysical Union (AGU) annual conference, New Orleans, LA <br>
+
+- Oct. 2025: GSA annual conference, San Antonio, TX 
+
+- Dec. 2025: AGU annual conference, New Orleans, LA 
 
 <br style="line-height:3">
 

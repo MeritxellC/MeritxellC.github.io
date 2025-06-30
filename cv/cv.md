@@ -85,7 +85,6 @@ Undergrad Research Assistant<br>
 2025-present - American Geophysical Union (AGU) Tectonophysics Graduate Student Representative <br>
 2024 - First-Year Colloquium Organizer, Columbia University <br>
 2023 - Open House, Lamont-Doherty Earth Observatory <br>
-2018-2020 - Women* in Physics Mentor, Carleton College <br>
 
 
 

@@ -7,12 +7,7 @@ layout: default
 
 
 <p>
-<b><a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks</a></b>
-<br>
-<i>In review at Geophysical Research Letters</i>
-<br>
-Folarin Kolawole, Zachary Foster-Baril, Leonard Seeber, Jacob A. Tielke, Abhishek Prakash,  <b>Meritxell Colet</b>, Eric Beaucé, Won-Young Kim, Rasheed Ajala, Christine McCarthy and Felix Waldhauser
-<br>
+Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C.,and Waldhauser, F. <a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks</a>. <i>In review at Geophysical Research Letters.</i>
 </p>
 
 <br style="line-height:2">
@@ -21,30 +16,18 @@ Folarin Kolawole, Zachary Foster-Baril, Leonard Seeber, Jacob A. Tielke, Abhishe
 <p><i>Journal Peer-Reviewed</i></p>
 
 <p>
-[3] <b><a href="https://essopenarchive.org/users/857884/articles/1259439-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa?commit=b82447a2ff499eb05055bb700b32f4c54617af3d">Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa</a></b>
-<br>
-<i>Accepted, Tectonics (2025)</i>
-<br>
-<b>Meritxell Colet</b>, Folarin Kolawole, Rasheed Ajala, Damien Delvaux and Hardy Medry Dieu-Veill Nkodia
-<br>
+[3] <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). <a href="https://essopenarchive.org/users/857884/articles/1259439-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa?commit=b82447a2ff499eb05055bb700b32f4c54617af3d">Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa</a>. <i>Accepted, Tectonics. </i>
 </p>
 
 <p>
-[2] <b><a href="https://www.mdpi.com/2624-6120/3/2/14">Skyfall: Signal Fusion from a Smartphone Falling from the Stratosphere</a></b>
+[2] Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., <b>Colet, M.</b>, Takazawa, S., and Popenhagen, S. (2022). <a href="https://www.mdpi.com/2624-6120/3/2/14">Skyfall: Signal Fusion from a Smartphone Falling from the Stratosphere</a>. Signals, 3(2), 209-234. https://doi.org/10.3390/signals3020014
 <br>
-<i>Signals (2022)</i>
-<br>
-Milton A Garcés, Daniel Bowman, Cleat Zeiler, Anthony Christe, Tyler Yoshiyama, Brian Williams, <b>Meritxell Colet</b>, Samuel Takazawa and Sarah Popenhagen <br>
 <a href="Garces_et_al_2022.pdf">[PDF]</a>
 </p>
 
 <p>
-[1] <b><a href="https://www.nature.com/articles/s41598-018-29110-5">Forecasting events in the complex dynamics of a semiconductor laser with optical feedback</a></b>
+[1] <b>Colet, M.,</b> and Aragoneses, A. (2018). <a href="https://www.nature.com/articles/s41598-018-29110-5">Forecasting Events in the Complex Dynamics of a Semiconductor Laser with Optical Feedback</a>. Scientic Reports. 8, 10741. https://doi.org/10.1038/s41598-018-29110-5
 <br>
-<i> Scientic Reports (2018)</i>
-<br>
-<b>Meritxell Colet</b> and Andrés Aragoneses 
- <br>
 <a href="Aragoneses_and_Colet_2018.pdf">[PDF]</a>
 </p>
 

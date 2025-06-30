@@ -7,9 +7,9 @@ layout: default
 
 
 <p>
-[4] <b><a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks</a></b>
+<b><a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks</a></b>
 <br>
-<i>In review at Geophysical Research Letters (2024)</i>
+<i>In review at Geophysical Research Letters</i>
 <br>
 Folarin Kolawole, Zachary Foster-Baril, Leonard Seeber, Jacob A. Tielke, Abhishek Prakash,  <b>Meritxell Colet</b>, Eric Beaucé, Won-Young Kim, Rasheed Ajala, Christine McCarthy and Felix Waldhauser
 <br>

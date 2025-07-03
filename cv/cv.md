@@ -18,12 +18,16 @@ p{
 
 <h3>Abbreviated CV</h3>
 
-
 <p><strong><u>Education</u></strong></p>
 <p>
 <b>Columbia University,</b> New York, NY <br>
 Ph.D. in Geophysics<br>
 Emphases: Active Tectonics, Structural Geology, Seismology, Geophysics<br>
+</p>
+
+<p>
+<b>Columbia University,</b> New York, NY <br>
+M. A. in Structural Geology<br>
 </p>
 
 <p>

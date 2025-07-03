@@ -26,17 +26,17 @@ Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet
 <p><i>Journal Peer-Reviewed</i></p>
 
 <p>
-[3] <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. <i>Accepted, Tectonics. </i> <a href="https://essopenarchive.org/users/857884/articles/1259439-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa?commit=b82447a2ff499eb05055bb700b32f4c54617af3d">ESS Preprint</a>. 
+<b>[3] </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. <i>Accepted, Tectonics. </i> <a href="https://essopenarchive.org/users/857884/articles/1259439-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa?commit=b82447a2ff499eb05055bb700b32f4c54617af3d">ESS Preprint</a>. 
 </p>
 
 <p>
-[2] Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., <b>Colet, M.</b>, Takazawa, S., and Popenhagen, S. (2022). Skyfall: Signal Fusion from a Smartphone Falling from the Stratosphere, Signals, 3(2), 209-234. <a href="https://www.mdpi.com/2624-6120/3/2/14"> https://doi.org/10.3390/signals3020014</a>
+<b>[2] </b> Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., <b>Colet, M.</b>, Takazawa, S., and Popenhagen, S. (2022). Skyfall: Signal Fusion from a Smartphone Falling from the Stratosphere, Signals, 3(2), 209-234. <a href="https://www.mdpi.com/2624-6120/3/2/14"> https://doi.org/10.3390/signals3020014</a>
 <br>
 <a href="Garces_et_al_2022.pdf">[PDF]</a>
 </p>
 
 <p>
-[1] <b>Colet, M.,</b> and Aragoneses, A. (2018). Forecasting Events in the Complex Dynamics of a Semiconductor Laser with Optical Feedback, Scientic Reports. 8, 10741. <a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a> 
+<b>[1] </b> <b>Colet, M.,</b> and Aragoneses, A. (2018). Forecasting Events in the Complex Dynamics of a Semiconductor Laser with Optical Feedback, Scientic Reports. 8, 10741. <a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a> 
 <br>
 <a href="Aragoneses_and_Colet_2018.pdf">[PDF]</a>
 </p>

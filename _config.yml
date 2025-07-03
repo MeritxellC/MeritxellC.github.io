@@ -1,6 +1,6 @@
 title: Meritxell Colet
-url: "www.meritxellcolet.com"
-baseurl: "https://www.meritxellcolet.com"
+url: "https://www.meritxellcolet.com"
+baseurl: "https://www.meritxellcolet.com/"
 
 markdown: kramdown
 #ins_logo: "./img/favicon.png"
@@ -21,8 +21,8 @@ nav:
  - name: "About"
    link: "https://www.meritxellcolet.com"
  - name: "Publications"
-   link: "https://meritxellc.github.io/publications/publications"
+   link: "https://www.meritxellcolet.com/publications/publications"
  - name: "CV"
-   link: "https://meritxellc.github.io/cv/cv"
+   link: "https://www.meritxellcolet.com/cv/cv"
  - name: "Contact"
-   link: "https://meritxellc.github.io/contact"
+   link: "https://www.meritxellcolet.com/contact"

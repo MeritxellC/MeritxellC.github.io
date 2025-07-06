@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
-<b>Full CV</b>: You can find my full CV in PDF [here](Meritxell_Colet_CV_PDF.pdf).
+<p>
+<b>Full CV</b>: You can find my full CV in <a href="Meritxell_Colet_CV_PDF.pdf">PDF</a>.
+</p>
 
 <br style="line-height:2">
 

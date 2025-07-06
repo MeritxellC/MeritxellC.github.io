@@ -17,7 +17,7 @@ layout: default
 
 
 <p>
-Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C.,and Waldhauser, F. The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. <i>In review at Geophysical Research Letters.</i> <a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">ESS Preprint</a>
+Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C.,and Waldhauser, F. The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. <i>In review at Geophysical Research Letters.</i> <a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">Preprint</a>
 </p>
 
 <br style="line-height:2">
@@ -26,7 +26,7 @@ Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet
 <p><i>Journal Peer-Reviewed</i></p>
 
 <p>
-<b>3. </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. <i><mark style="background-color:#C49464;">&nbsp;Accepted&nbsp;</mark>, Tectonics. </i> <a href="https://essopenarchive.org/users/857884/articles/1259439-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa?commit=b82447a2ff499eb05055bb700b32f4c54617af3d">ESS Preprint</a>. 
+<b>3. </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. <i><mark style="background-color:#C49464;">&nbsp;Accepted&nbsp;</mark>, Tectonics. </i> <a href="https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa">Preprint</a>. 
 </p>
 
 <p>
@@ -36,7 +36,7 @@ Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet
 </p>
 
 <p>
-<b>1. </b> <b>Colet, M.,</b> and Aragoneses, A. (2018). Forecasting Events in the Complex Dynamics of a Semiconductor Laser with Optical Feedback, Scientic Reports. 8, 10741. <a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a> <i>(Undegraduate research) </i>
+<b>1. </b> <b>Colet, M.,</b> and Aragoneses, A. (2018). Forecasting Events in the Complex Dynamics of a Semiconductor Laser with Optical Feedback, Scientic Reports. 8, 10741. <a href="https://www.nature.com/articles/s41598-018-29110-5">https://doi.org/10.1038/s41598-018-29110-5</a> <i>(Undergraduate research) </i>
 <br>
 <a href="Aragoneses_and_Colet_2018.pdf">[PDF]</a>
 </p>

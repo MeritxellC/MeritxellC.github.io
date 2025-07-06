@@ -2,15 +2,6 @@
 layout: default
 ---
 
-
-<style type="text/css"> 
-p{ 
-  line-height: 20px; //you can set the line height here 
-  text-align: justify;
-  text-justify: inter-word;
-} 
-</style>
-
 <b>Full CV</b>: You can find my full CV in PDF [here](Meritxell_Colet_CV_PDF.pdf).
 
 <br style="line-height:2">
@@ -22,7 +13,7 @@ p{
 <p>
 <b>Columbia University,</b> New York, NY <br>
 Ph.D. in Geophysics<br>
-Emphases: Active Tectonics, Structural Geology, Seismology, Geophysics<br>
+Emphases: Active Tectonics, Structural Geology, Seismology<br>
 </p>
 
 <p>

@@ -19,7 +19,7 @@ Emphases: Active Tectonics, Structural Geology, Seismology<br>
 
 <p>
 <b>Columbia University,</b> New York, NY <br>
-M. A. in Structural Geology<br>
+M.A. in Structural Geology<br>
 </p>
 
 <p>

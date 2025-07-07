@@ -44,9 +44,9 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <p>Meritxell Colet, Folarin Kolawole, Rasheed Ajala, Damien Delvaux, Hardy Medry Dieu-Veill Nkodia </p>
 
-<br style="line-height:2">
+<br style="line-height:1">
 
-<i><a href="https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa">Accepted in Tectonics (July 2025)</a></i>
+<p><i><a href="https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa">Accepted in Tectonics (July 2025)</a></i></p>
 </div>
 
 

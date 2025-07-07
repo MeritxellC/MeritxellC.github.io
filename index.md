@@ -50,7 +50,7 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 </div>
 
 
-<br style="line-height:25">
+<br style="line-height:35">
 
 <h3>Other things</h3>
 

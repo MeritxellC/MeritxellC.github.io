@@ -35,6 +35,8 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <h3>Recent publication</h3>
 
+<br style="line-height:2">
+
 <p><a href="https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa"><img src="./img/Luama_Kamituga_Figure11_cut.jpg" alt="Itombwe Microplate Nucleation" style="border: 0.25px solid #000; max-width:225px; max-height:225px; width:auto;
     height:auto; float: left; margin: 5 20px 10px 0; image-resolution: 300px"/> </a> </p>
 

@@ -15,13 +15,11 @@ layout: default
 [Crustal Deformation Group](https://www.folarinkolawole.com) at [Columbia University](https://eesc.columbia.edu). 
 My research focuses on integrating field structural geology and seismology to understand crustal structure and modes of strain release along evolving continental divergent plate boundaries at different scales. My current research areas include the East African Rift System (Tanzania and Congo) and Northeast Pacific (offshore Oregon, US).
 
-&nbsp;&nbsp;&nbsp;&nbsp;My previous work at the Infrasound Lab (ISLA) at the 
-[University of Hawaiʻi](https://www.higp.hawaii.edu) involved building algorithms for geoscience research, such as examining 
-signals from the IMS Infrasound Network.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I earned a B.A. in Physics from Carleton College. During my undergraduate years, I participated in 
 physics research opportunities, such as exploring the [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), 
-and geology research, such as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
+and geology research, such as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). After graduating, I worked at the Infrasound Lab (ISLA) at the 
+[University of Hawaiʻi](https://www.higp.hawaii.edu) where I developed algorithms for geoscience research - such as examining signals from the IMS Infrasound Network - before beginning graduate school at Columbia.
 
 
 <br style="line-height:3">
@@ -33,7 +31,7 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <br style="line-height:3">
 
-<h3>Recent publication</h3>
+<h3>Recent Publication</h3>
 
 <p><a href="https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa"><img src="./img/Luama_Kamituga_Figure11_cut.jpg" alt="Itombwe Microplate Nucleation" style="border: 0.1px solid #D3D3D3; max-width:225px; max-height:225px; width:auto;
     height:auto; float: left; margin: 5 20px 10px 0; image-resolution: 300px"/> </a> </p>
@@ -50,16 +48,15 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 </div>
 
 
-<br style="line-height:75">
+<br style="line-height:85">
 
-<h3>Other things</h3>
+<h3>Other Things</h3>
 
 - One of my favorite webpages is [Earth](https://earth.nullschool.net), a project to visualize global weather conditions (and it's
 [open-source](https://github.com/cambecc/earth)!). My favorite Wikipedia page is
 [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future).
 
-- The base for this website is [researcher](https://github.com/ankitsultana/researcher), by Ankit Sultana, and heavily influenced
-by [Maria Antoniak](https://maria-antoniak.github.io), all credit to her!
+- The base for this website is [researcher](https://github.com/ankitsultana/researcher), by Ankit Sultana.
 
 
 

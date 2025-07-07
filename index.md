@@ -9,6 +9,8 @@ layout: default
 
 <h3>About</h3>
 
+<style>body {text-align: justify}</style>
+
 &nbsp;&nbsp;&nbsp;&nbsp;I am a PhD Candidate working with Dr. Folarin Kolawole in the 
 [Crustal Deformation Group](https://www.folarinkolawole.com) at [Columbia University](https://eesc.columbia.edu). 
 My research focuses on integrating field structural geology and seismology to understand crustal structure and modes of strain release along evolving continental divergent plate boundaries at different scales. My current research areas include the East African Rift System (Tanzania and Congo) and Northeast Pacific (offshore Oregon, US).
@@ -21,12 +23,27 @@ signals from the IMS Infrasound Network.
 physics research opportunities, such as exploring the [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), 
 and geology research, such as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). 
 
+
 <br style="line-height:3">
 
 <h3>Upcoming Events</h3>
 
 - Oct. 2025: <b>GSA annual conference</b>, San Antonio, TX 
 - Dec. 2025: <b>AGU annual conference</b>, New Orleans, LA 
+
+<br style="line-height:3">
+
+<h3>Recent publication</h3>
+
+<img src="./img/Luama_Kamituga_Figure11_cut.jpg" alt="Itombwe Microplate Nucleation" width="210" height="170" style="float: left; margin: 0 20px 10px 0"> 
+
+<div align="center">
+<h4> <b> Active Crustal Deformation across a Nucleating Extensional Microplate, D. R. Congo, East Africa </b> </h4>
+
+Meritxell Colet, Folarin Kolawole, Rasheed Ajala, Damien Delvaux, Hardy Medry Dieu-Veill Nkodia 
+
+<i>[Accepted in Tectonics (July 2025)](https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa)</i>
+</div>
 
 <br style="line-height:3">
 

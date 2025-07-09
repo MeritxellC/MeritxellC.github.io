@@ -26,7 +26,9 @@ Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet
 <p><i>Journal Peer-Reviewed</i></p>
 
 <p>
-<b>3. </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. <i><mark style="background-color:#C49464;">&nbsp;Accepted&nbsp;</mark>, Tectonics. </i> <a href="https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa">Preprint</a>. 
+<b>3. </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. Tectonics, 44, e2025TC008815.<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R"> https://doi.org/10.1029/2025TC008815</a>. 
+<br>
+<a href="Colet_etal_2025.pdf">[PDF]</a>
 </p>
 
 <p>

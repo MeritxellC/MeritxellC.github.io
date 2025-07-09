@@ -15,7 +15,6 @@ layout: default
 [Crustal Deformation Group](https://www.folarinkolawole.com) at [Columbia University](https://eesc.columbia.edu). 
 My research focuses on integrating field structural geology and seismology to understand crustal structure and modes of strain release along evolving continental divergent plate boundaries at different scales. My current research areas include the East African Rift System (Tanzania and Congo) and Northeast Pacific (offshore Oregon, US).
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;I earned a B.A. in Physics from Carleton College. During my undergraduate years, I participated in 
 physics research opportunities, such as exploring the [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), 
 and geology research, such as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). After graduating, I worked at the Infrasound Lab (ISLA) at the 
@@ -44,7 +43,7 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <p>Meritxell Colet, Folarin Kolawole, Rasheed Ajala, Damien Delvaux, Hardy Medry Dieu-Veill Nkodia </p>
 
-<p><i><a href="https://essopenarchive.org/users/857884/articles/1308388-active-crustal-deformation-across-a-nucleating-extensional-microplate-d-r-congo-east-africa">Accepted in Tectonics (July 2025)</a></i></p>
+<p><i><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R">Published in Tectonics (July 2025)</a></i></p>
 </div>
 
 

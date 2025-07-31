@@ -78,7 +78,8 @@ Undergrad Research Assistant<br>
 
 
 <p><strong><u>Academic Service</u></strong></p>
-2025-present - AGU Tectonophysics Graduate Student Representative <br>
+2025-present - AGU Tectonophysics Executive Committee Student Representative<br>
+2025-present - AGU Tectonophysics Early Career and OSPA Committee<br>
 2024 - First-Year Colloquium Organizer, Columbia University <br>
 2023 - Open House, Lamont-Doherty Earth Observatory <br>
 

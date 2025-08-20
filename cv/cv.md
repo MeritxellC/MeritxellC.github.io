@@ -12,18 +12,18 @@ layout: default
 
 <p><strong><u>Education</u></strong></p>
 <p>
-<b>Columbia University,</b> New York, NY <br>
+<b>Columbia University,</b> New York, NY <i>(2025- Exp. 2028)</i><br>
 Ph.D. in Geophysics<br>
 Emphases: Active Tectonics, Structural Geology, Seismology<br>
 </p>
 
 <p>
-<b>Columbia University,</b> New York, NY <br>
+<b>Columbia University,</b> New York, NY  <i>(2023 - 2025)</i><br>
 M.A. in Structural Geology<br>
 </p>
 
 <p>
-<b>Carleton College</b>, Northfield, MN <br>
+<b>Carleton College</b>, Northfield, MN <i>(2016 - 2020) </i><br>
 B.A. in Physics, minor in Art History
 </p>
 

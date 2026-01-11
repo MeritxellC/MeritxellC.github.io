@@ -12,9 +12,9 @@ layout: default
 
 <p><strong><u>Education</u></strong></p>
 <p>
-<b>Columbia University,</b> New York, NY <i>(2023- Exp. 2028)</i><br>
-&emsp; Ph.D. in Geophysics<br>
-&emsp; M.A. in Structural Geology<br>
+<b>Columbia University,</b> New York, NY <i>(2023 - Exp. 2028)</i><br>
+&emsp; Ph.D. in Geophysics <i>(2025 - )</i><br>
+&emsp; M.A. in Structural Geology <i>(2023 - 2025)</i> <br>
 &emsp; Emphases: Active Tectonics, Structural Geology, Seismology<br>
 </p>
 

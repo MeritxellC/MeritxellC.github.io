@@ -18,7 +18,7 @@ My research focuses on integrating field structural geology and seismology to un
 &nbsp;&nbsp;&nbsp;&nbsp;I earned a B.A. in Physics from Carleton College. During my undergraduate years, I participated in 
 physics research opportunities, such as exploring the [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), 
 and geology research, such as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). After graduating, I worked at the Infrasound Lab (ISLA) at the 
-[University of Hawaiʻi](https://www.higp.hawaii.edu) where I developed algorithms for geoscience research - such as examining signals from the IMS Infrasound Network - before beginning graduate school at Columbia.
+[University of Hawaiʻi](https://www.higp.hawaii.edu) where I developed algorithms for geoscience research, such as examining signals from the IMS Infrasound Network, before beginning graduate school at Columbia.
 
 
 <br style="line-height:3">
@@ -41,7 +41,7 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <h4> <b> Active Crustal Deformation across a Nucleating Extensional Microplate, D. R. Congo, East Africa </b> </h4>
 
-<p>Meritxell Colet, Folarin Kolawole, Rasheed Ajala, Damien Delvaux, Hardy Medry Dieu-Veill Nkodia </p>
+<p>Colet, M., Kolawole, F., Ajala, R., Delvaux, D., & Nkodia, H. M. D-V. </p>
 
 <p><i><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R">Published in Tectonics (July 2025)</a></i></p>
 </div>

@@ -65,6 +65,7 @@ Undergrad Research Assistant<br>
 <br style="line-height:1">
 
 <p><strong><u>Teaching and Mentoring Experience</u></strong></p>
+2026 Spring &emsp; Teaching Assistant, EESC2200: Earth’s Environmental Systems: The Solid Earth, Columbia University<br>
 2025 Summer &emsp; Co-mentor, Earth Intern Program, Columbia University <br>
 2025 Spring &emsp; Teaching Assistant, EESC1010: Geological Excursion to Death Valley, Columbia University<br>
 2022 Summer &emsp; Co-mentor, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
@@ -76,6 +77,7 @@ Undergrad Research Assistant<br>
 <p><strong><u>Academic Service</u></strong></p>
 2025 - &emsp;  AGU Tectonophysics Executive Committee Student Representative<br>
 2025 -  &emsp;  AGU Tectonophysics Early Career and OSPA Committee<br>
+2025 &emsp; AGU Session co-convener (T51B)<br>
 2024 &emsp; First-Year Colloquium Organizer, Columbia University <br>
 2023 &emsp; Open House, Lamont-Doherty Earth Observatory <br>
 

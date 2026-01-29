@@ -7,18 +7,21 @@ layout: default
 
 <br style="line-height:3">
 
-<h3>About</h3>
+<h3>Welcome!</h3>
 
 <style>body {text-align: justify}</style>
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am a PhD Candidate working with Dr. Folarin Kolawole in the 
 [Crustal Deformation Group](https://www.folarinkolawole.com) at [Columbia University](https://eesc.columbia.edu). 
-My research focuses on integrating field structural geology and seismology to understand crustal structure and modes of strain release along evolving continental divergent plate boundaries at different scales. My current research areas include the East African Rift System (Tanzania and Congo) and Northeast Pacific (offshore Oregon, US).
+
+&nbsp;&nbsp;&nbsp;&nbsp;My research focuses on integrating field structural geology and seismology to understand multi-scale crustal structure and modes of strain release along evolving active divergent plate boundaries. My current research areas include the East African Rift System (Tanzania and Congo) and the Axial submarine volcano (offshore Oregon, US).
 
 &nbsp;&nbsp;&nbsp;&nbsp;I earned a B.A. in Physics from Carleton College. During my undergraduate years, I participated in 
 physics research opportunities, such as exploring the [complex dynamics of a laser](https://www.nature.com/articles/s41598-018-29110-5), 
 and geology research, such as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). After graduating, I worked at the Infrasound Lab (ISLA) at the 
 [University of Hawaiʻi](https://www.higp.hawaii.edu) where I developed algorithms for geoscience research, such as examining signals from the IMS Infrasound Network, before beginning graduate school at Columbia.
+
+<b>Email:</b> mcolet@ldeo.columbia.edu | <b>[Google Scholar](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao)</b> 
 
 
 <br style="line-height:3">
@@ -41,23 +44,12 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <h4> <b> Active Crustal Deformation across a Nucleating Extensional Microplate, D. R. Congo, East Africa </b> </h4>
 
-<p>Colet, M., Kolawole, F., Ajala, R., Delvaux, D., & Nkodia, H. M. D-V. </p>
+<p>&nbsp;Colet, M., Kolawole, F., Ajala, R., Delvaux, D., & Nkodia, H. M. D-V. </p>
 
 <p><i><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R">Published in Tectonics (July 2025)</a></i></p>
 </div>
 
 
-<br style="line-height:85">
-
-<h3>Other Things</h3>
-
-- One of my favorite webpages is [Earth](https://earth.nullschool.net), a project to visualize global weather conditions (and it's
-[open-source](https://github.com/cambecc/earth)!). My favorite Wikipedia page is
-[Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future).
-
-- The base for this website is [researcher](https://github.com/ankitsultana/researcher), by Ankit Sultana.
 
 
-
-<br style="line-height:3">
 

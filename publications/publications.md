@@ -4,15 +4,16 @@ layout: default
 
 
 
-<b>Google Scholar:</b> You can find my Google Scholar [here](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao).
+<b>Google Scholar:</b> You can find my Google Scholar [here](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao). <br>
+<b>ORCID:</b> You can find my ORCID [here](https://orcid.org/0000-0002-5106-4608).
 
 
 <br style="line-height:2">
 
 
-<h3>Publications</h3>
 
-<p><i>Manuscript(s) in review</i></p>
+
+<p><b><i>Manuscript(s) in review</i></b></p>
 
 
 
@@ -23,7 +24,7 @@ Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet
 <br style="line-height:2">
 
 
-<p><i>Journal Peer-Reviewed</i></p>
+<p><b><i>Journal Peer-Reviewed</i></b></p>
 
 <p>
 <b>3. </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. Tectonics, 44, e2025TC008815.<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R"> https://doi.org/10.1029/2025TC008815</a>. 

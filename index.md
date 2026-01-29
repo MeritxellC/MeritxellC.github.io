@@ -21,7 +21,7 @@ physics research opportunities, such as exploring the [complex dynamics of a las
 and geology research, such as analyzing [seismic data from the 2018 Kīlauea eruption](https://ui.adsabs.harvard.edu/abs/2019AGUFM.V43C0202C/abstract). After graduating, I worked at the Infrasound Lab (ISLA) at the 
 [University of Hawaiʻi](https://www.higp.hawaii.edu) where I developed algorithms for geoscience research, such as examining signals from the IMS Infrasound Network, before beginning graduate school at Columbia.
 
-<b>Email:</b> mcolet@ldeo.columbia.edu | <b>[Google Scholar](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao)</b> 
+<b>Email:</b> mcolet@ldeo.columbia.edu `|` <b>[Google Scholar](https://scholar.google.com/citations?user=Avl1FTkAAAAJ&hl=en&oi=ao)</b> 
 
 
 <br style="line-height:3">
@@ -48,6 +48,8 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <p><i><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R">Published in Tectonics (July 2025)</a></i></p>
 </div>
+
+<br style="line-height:10">
 
 
 

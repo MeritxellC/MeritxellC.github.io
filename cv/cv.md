@@ -66,40 +66,40 @@ layout: default
 
 <br style="line-height:1">
 
-<p><strong><u>Teaching and Mentoring Experience</u></strong></p>
-2026 Spring |  <strong>Teaching Assistant</strong>, Columbia University
+<p><strong><u>Teaching and Mentoring Experience</u></strong></p> 
 
+2026 Spring `|`  <strong>Teaching Assistant</strong>, Columbia University <br>
 &emsp;EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
 
-2025 Summer |  <strong>Co-mentor</strong>, Earth Intern Program, Columbia University <br>
+2025 Summer `|`  <strong>Co-mentor</strong>, Earth Intern Program, Columbia University <br>
 
-2025 Spring | <strong>Teaching Assistant</strong>, Columbia University<br>
+2025 Spring `|` <strong>Teaching Assistant</strong>, Columbia University<br>
 &emsp;EESC1010: Geological Excursion to Death Valley<br>
 
-2022 Summer | <strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
+2022 Summer `|` <strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
 
-2017-2020 |  <strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
+2017-2020 `|`  <strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
 
 <br style="line-height:1">
 
 
 <p><strong><u>Service</u></strong></p>
 <p>
-<i>Professional </i> </br>
+<b><i>Professional </i></b> <br>
 2025 - &emsp;  AGU Tectonophysics Executive Committee Student Representative<br>
 2025 -  &emsp;  AGU Tectonophysics Early Career and OSPA Committee<br>
 2025 &emsp; AGU Session co-convener (T51B)<br>
 </p>
 
 <p>
-<i>University </i> </br>
+<b><i>University </i></b> <br>
 2025 - &emsp; Student Talk Series Organizer, Columbia University <br>
 2024  &emsp;  First-Year Colloquium Organizer, Columbia University<br>
 2017 - 2020 &emsp; Physicists from Underrepresented Genders, Carleton College<br>
 </p>
 
 <p>
-<i>Community </i> </br>
+<b><i>Community </i></b><br>
 2026 &emsp; Earth2Class, Lamont-Doherty Earth Observatory<br>
 2023 &emsp; Open House, Lamont-Doherty Earth Observatory<br>
 </p>
@@ -107,7 +107,7 @@ layout: default
 <br style="line-height:1">
 
 
-<b>Some fun things</b>
+<p><strong><u>Fun things</u></strong></p>
 
 - One of my favorite webpages is [Earth](https://earth.nullschool.net), a project to visualize global weather conditions (and it's
 [open-source](https://github.com/cambecc/earth)!). My favorite Wikipedia page is

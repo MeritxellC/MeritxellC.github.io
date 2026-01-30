@@ -11,7 +11,7 @@ layout: default
 
 <style>body {text-align: justify}</style>
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am a PhD Candidate working with Dr. Folarin Kolawole in the 
+&nbsp;&nbsp;&nbsp;&nbsp;I am a Ph.D. Candidate working with Dr. Folarin Kolawole in the 
 [Crustal Deformation Group](https://www.folarinkolawole.com) at [Columbia University](https://eesc.columbia.edu). 
 
 &nbsp;&nbsp;&nbsp;&nbsp;My research focuses on integrating field structural geology and seismology to understand multi-scale crustal structure and modes of strain release along evolving active divergent plate boundaries. My current research areas include the East African Rift System (Tanzania and Congo) and the Axial submarine volcano (offshore Oregon, US).
@@ -50,6 +50,9 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <p><i><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R">Published in Tectonics (July 2025)</a></i></p>
 </div>
+
+
+<br style="line-height:3">
 
 
 <br style="line-height:3">

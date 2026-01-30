@@ -27,19 +27,19 @@ layout: default
 <p><strong><u>Research Experience</u></strong></p>
 
 <p>
-<strong>Graduate Research (2023 - ) </strong><br>
+<strong>Graduate Research</strong> (2023 - )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i> Columbia University, NY, USA </i><br>
 </p>
 
 <p>
-<strong>Field Systems Engineer and Analyst (2020 - 2023)</strong> <br>
+<strong>Field Systems Engineer and Analyst</strong> (2020 - 2023) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i> Infrasound Laboratory, Hawaiʻi Institute of Geophysics and Planetology, HI, USA </i><br>
 </p>
 
 <p>
 <strong>Undergrad Research Assistant </strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dept. of Earth Science, University of Hawaiʻi, HI, USA (Summer 2019, NSF-REU)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Inst. of Cross-Disciplinary Physics and Complex Systems, Spain (Summer 2018<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Inst. of Cross-Disciplinary Physics and Complex Systems, Spain (Summer 2018)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dept. of Physics and Astronomy, Carleton College, MN, USA (Summer 2017)
 </p>
 <br style="line-height:1">
@@ -69,12 +69,12 @@ layout: default
 <p><strong><u>Teaching and Mentoring Experience</u></strong></p> 
 
 2026 Spring&nbsp;&nbsp; <strong>Teaching Assistant</strong>, Columbia University <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
 
 2025 Summer&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Intern Program, Columbia University <br>
 
 2025 Spring &nbsp;&nbsp;<strong>Teaching Assistant</strong>, Columbia University<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC1010: Geological Excursion to Death Valley<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC1010: Geological Excursion to Death Valley<br>
 
 2022 Summer &nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
 
@@ -86,22 +86,22 @@ layout: default
 <p><strong><u>Service</u></strong></p>
 <p>
 <b><i>Professional </i></b> <br>
-2025 - &nbsp;&nbsp;&nbsp;&nbsp;  AGU Tectonophysics Executive Committee Student Representative<br>
-2025 -  &nbsp;&nbsp;&nbsp;&nbsp;  AGU Tectonophysics Early Career and OSPA Committee<br>
-2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AGU Session co-convener (T51B)<br>
+2025 - &nbsp;&nbsp;&nbsp;&nbsp;  <b>AGU Tectonophysics Executive Committee Student Representative</b><br>
+2025 -  &nbsp;&nbsp;&nbsp;&nbsp;  <b>AGU Tectonophysics Early Career and OSPA Committee</b><br>
+2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AGU Session co-convener</b> (T51B)<br>
 </p>
 
 <p>
 <b><i>University </i></b> <br>
-2025 - &nbsp;&nbsp;&nbsp;&nbsp; Student Talk Series Organizer, Columbia University <br>
-2024  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  First-Year Colloquium Organizer, Columbia University<br>
-2017 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physicists from Underrepresented Genders, Carleton College<br>
+2025 - &nbsp;&nbsp;&nbsp;&nbsp; <b>Student Talk Series Organizer</b>, Columbia University <br>
+2024  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>First-Year Colloquium Organizer</b>, Columbia University<br>
+2017 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Physicists from Underrepresented Genders</b>, Carleton College<br>
 </p>
 
 <p>
 <b><i>Community </i></b><br>
-2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Earth2Class, Lamont-Doherty Earth Observatory<br>
-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open House, Lamont-Doherty Earth Observatory<br>
+2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Earth2Class</b>, Lamont-Doherty Earth Observatory<br>
+2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
 </p>
 
 <br style="line-height:1">

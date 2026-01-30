@@ -27,7 +27,7 @@ layout: default
 <p><strong><u>Research Experience</u></strong></p>
 
 <p>
-<strong>Graduate Research 2023 - ) </strong><br>
+<strong>Graduate Research (2023 - ) </strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<i> Columbia University, NY, USA </i><br>
 </p>
 
@@ -69,12 +69,12 @@ layout: default
 <p><strong><u>Teaching and Mentoring Experience</u></strong></p> 
 
 2026 Spring&nbsp;&nbsp; <strong>Teaching Assistant</strong>, Columbia University <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
 
 2025 Summer&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Intern Program, Columbia University <br>
 
 2025 Spring &nbsp;&nbsp;<strong>Teaching Assistant</strong>, Columbia University<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC1010: Geological Excursion to Death Valley<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC1010: Geological Excursion to Death Valley<br>
 
 2022 Summer &nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
 

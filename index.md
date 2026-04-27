@@ -30,8 +30,8 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <h3>Upcoming Events</h3>
 
-- Oct. 2025: <b>GSA annual conference</b>, San Antonio, TX 
-- Dec. 2025: <b>AGU annual conference</b>, New Orleans, LA 
+- May 2026: <b>Invited Talk - Rift and Rifted Margins Webinar</b>, GFZ Postdam 
+- Aug. 2026: <b>Invited Talk - Structural Geology and Tectonics Forum</b>, Carleton College, USA 
 
 <br style="line-height:4">
 

@@ -30,7 +30,10 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <h3>Upcoming Events</h3>
 
+- April 2026: <b>Invited Talk - Earth2Class</b>, Lamont-Doherty Earth Observatory 
+
 - May 2026: <b>Invited Talk - Rift and Rifted Margins Webinar</b>, GFZ Postdam 
+
 - Aug. 2026: <b>Invited Talk - Structural Geology and Tectonics Forum</b>, MN, USA 
 
 <br style="line-height:4">

@@ -47,12 +47,12 @@ layout: default
 <p><strong><u>Fellowships and Scholarships</u></strong></p>
 
 <p>
-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Lewis & Clark Fund for Exploration and Field Research</b>, Columbia Uni. ($5200)<br>
+2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Lewis & Clark Fund for Exploration and Field Research</b>, Columbia Uni. ($5200)<br>
 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>GSA Graduate Student Research Grant</b>, Columbia University ($2450)<br>
-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AAPG Foundation Grants-in-Aid</b>, Columbia University ($1000) <br>
-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>CRESCENT Geoscience Professional Development Fellowship</b>, Columbia Uni. ($900)<br>
-2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>NASA’s MN Space Grant Consortium</b>, Carleton College ($1000)<br>
-2017, 2018&nbsp;&nbsp;&nbsp;&nbsp; <b>Townsley Endowment for the Sciences</b>, Carleton College ($5000 each year)<br>
+2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AAPG Foundation Grants-in-Aid</b>, Columbia University ($1000) <br>
+2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>CRESCENT Geoscience Professional Development Fellowship</b>, Columbia Uni. ($900)<br>
+2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>NASA’s MN Space Grant Consortium</b>, Carleton College ($1000)<br>
+2017, 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Townsley Endowment for the Sciences</b>, Carleton College ($5000 each year)<br>
 
 </p>
 
@@ -68,15 +68,15 @@ layout: default
 
 <p><strong><u>Teaching and Mentoring Experience</u></strong></p> 
 
-2026, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Teaching Assistant</strong>, Columbia University <br>
-Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC1010: Geological Excursion to Death Valley<br>
+2026, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Teaching Assistant</strong>, Columbia University <br>
+Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC1010: Geological Excursion to Death Valley<br>
 
-2025 Summer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Intern Program, Columbia University <br>
+2025 Summer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Intern Program, Columbia University <br>
 
-2022 Summer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
+2022 Summer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
 
-2017 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
+2017 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
 
 <br style="line-height:1">
 

@@ -48,7 +48,7 @@ layout: default
 
 <p>
 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Lewis & Clark Fund for Exploration and Field Research</b>, Columbia Uni. ($5200)<br>
-202&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>GSA Graduate Student Research Grant</b>, Columbia University ($2450)<br>
+2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>GSA Graduate Student Research Grant</b>, Columbia University ($2450)<br>
 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AAPG Foundation Grants-in-Aid</b>, Columbia University ($1000) <br>
 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>CRESCENT Geoscience Professional Development Fellowship</b>, Columbia Uni. ($900)<br>
 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>NASA’s MN Space Grant Consortium</b>, Carleton College ($1000)<br>
@@ -76,7 +76,7 @@ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 2022 Summer&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
 
-2017 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
+2017 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
 
 <br style="line-height:1">
 

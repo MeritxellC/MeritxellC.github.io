@@ -76,7 +76,7 @@ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 2022 Summer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Co-mentor</strong>, Earth Science on Volcanic Islands NSF-REU, University of Hawai'i <br>
 
-2017 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
+2017 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong>, Spanish Department, Carleton College <br>
 
 <br style="line-height:1">
 
@@ -93,13 +93,13 @@ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <b><i>University </i></b> <br>
 2025 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Student Talk Series Organizer</b>, Columbia University <br>
 2024  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b>First-Year Colloquium Organizer</b>, Columbia University<br>
-2017 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Physicists from Underrepresented Genders</b>, Carleton College<br>
+2017 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;  <b>Physicists from Underrepresented Genders</b>, Carleton College<br>
 </p>
 
 <p>
 <b><i>Community </i></b><br>
-2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Earth2Class</b>, Lamont-Doherty Earth Observatory<br>
-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
+2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Earth2Class</b>, Lamont-Doherty Earth Observatory<br>
+2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
 </p>
 
 <br style="line-height:1">

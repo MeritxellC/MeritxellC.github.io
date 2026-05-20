@@ -49,7 +49,7 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 <h4> <b> Active Crustal Deformation across a Nucleating Extensional Microplate, D. R. Congo, East Africa </b> </h4>
 
-<p>&nbsp;Colet, M., Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. </p>
+<p>&nbsp;Colet, M., Kolawole, F., Ajala, R., Delvaux, D., & Nkodia, H. M. D-V. </p>
 
 <p><i><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R">Published in Tectonics (July 2025)</a></i></p>
 </div>

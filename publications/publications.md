@@ -16,7 +16,7 @@ layout: default
 <p><b><i>Manuscript(s) in review</i></b></p>
 
 <p>
-<b>Colet, M.</b>, Kolawole, F., Ajala, R., Wang, K., Lemna, O. S., Mulibo, G. D., Waldhauser, F., & Buck, W. R. Modes of active early-stage rifting in cratonic versus non-cratonic lithosphere, East Africa. <b><i>Submitted.</i></b> 
+<b>Colet, M.</b>, Kolawole, F., Ajala, R., Wang, K., Lemna, O. S., Mulibo, G. D., Waldhauser, F., & Buck, W. R. Modes of active early-stage rifting in cratonic versus non-cratonic lithosphere, East Africa. <b><i>In review.</i></b> 
 </p>
 
 

@@ -20,14 +20,14 @@ layout: default
 </p>
 
 
-<p>
-Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C., and Waldhauser, F. The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. <b><i>Revised, in revision at JGR-Solid Earth.</i></b> <a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">Preprint</a>
-</p>
-
 <br style="line-height:2">
 
 
 <p><b><i>Journal Peer-Reviewed</i></b></p>
+
+<p>
+4. Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C., and Waldhauser, F. The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. <b><i>Accepted, JGR-Solid Earth.</i></b> <a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">Preprint</a>
+</p>
 
 <p>
 <b>3. </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. Tectonics, 44, e2025TC008815.<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R"> https://doi.org/10.1029/2025TC008815</a>. 

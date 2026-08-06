@@ -34,6 +34,8 @@ and geology research, such as analyzing [seismic data from the 2018 Kīlauea eru
 
 - Aug. 2026: <b>Structural Geology and Tectonics Forum</b>, MN, USA (Invited talk)
 
+- Oct. 2026: <b>Geological Society of America (GSA) annual meeting</b>, CO, USA 
+
 <br style="line-height:4">
 
 <h3>Recent Publication</h3>

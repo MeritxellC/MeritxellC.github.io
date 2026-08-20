@@ -26,17 +26,19 @@ layout: default
 <p><b><i>Journal Peer-Reviewed</i></b></p>
 
 <p>
-4. Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C., and Waldhauser, F. The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. <b><i>Accepted, JGR-Solid Earth.</i></b> <a href="https://www.authorea.com/users/523989/articles/1241605-the-2024-mw4-8-new-jersey-intraplate-earthquake-preferential-rupture-of-an-immature-rough-fault-in-frictionally-unstable-basement-rocks">Preprint</a>
+<b>4. </b> Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C., and Waldhauser, F. (2026). The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. JGR-Solid Earth, 131, e2025JB033723. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033723"> https://doi.org/10.1029/2025JB033723</a>
+<br>
+<a href="Kolawole_etal_2026.pdf">[PDF]</a>
 </p>
 
 <p>
-<b>3. </b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. Tectonics, 44, e2025TC008815.<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R"> https://doi.org/10.1029/2025TC008815</a>. 
+<b>3.</b> <b>Colet, M.</b>, Kolawole, F., Ajala, R., Delvaux, D., and Nkodia, H. M. D-V. (2025). Active Crustal Deformation Across a Nucleating Extensional Microplate, D. R. Congo, East Africa. Tectonics, 44, e2025TC008815.<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008815?af=R"> https://doi.org/10.1029/2025TC008815</a>. 
 <br>
 <a href="Colet_etal_2025.pdf">[PDF]</a>
 </p>
 
 <p>
-<b>2. </b> Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., <b>Colet, M.</b>, Takazawa, S., and Popenhagen, S. (2022). Skyfall: Signal Fusion from a Smartphone Falling from the Stratosphere, Signals, 3(2), 209-234. <a href="https://www.mdpi.com/2624-6120/3/2/14"> https://doi.org/10.3390/signals3020014</a>
+<b>2.</b> Garcés, M. A., Bowman, D., Zeiler, C., Christe, A., Yoshiyama, T., Williams, B., <b>Colet, M.</b>, Takazawa, S., and Popenhagen, S. (2022). Skyfall: Signal Fusion from a Smartphone Falling from the Stratosphere, Signals, 3(2), 209-234. <a href="https://www.mdpi.com/2624-6120/3/2/14"> https://doi.org/10.3390/signals3020014</a>
 <br>
 <a href="Garces_et_al_2022.pdf">[PDF]</a>
 </p>

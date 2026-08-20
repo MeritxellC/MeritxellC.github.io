@@ -25,8 +25,9 @@ layout: default
 
 <p><b><i>Journal Peer-Reviewed</i></b></p>
 
+
 <p>
-<b>4. </b> Kolawole, F., Foster-Baril, Z., Seeber, L., Tielke, J. A., Prakash, A., <b>Colet, M.</b>, Beaucé, E., Kim, W-Y., Ajala, R., McCarthy, C., and Waldhauser, F. (2026). The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. JGR-Solid Earth, 131, e2025JB033723. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033723"> https://doi.org/10.1029/2025JB033723</a>
+<b>4. </b> Kolawole, F., Beaucé, E., Foster-Baril, Z., <b>Colet, M.</b>, Seeber, L., Tielke, J., Prakash, A., Kim, W-Y., Ajala, R., McCarthy, C., and Waldhauser, F. (2026). The 2024 Mw4.8 New Jersey Intraplate Earthquake: Preferential Rupture of an Immature Rough Fault in Frictionally Unstable Basement Rocks. JGR-Solid Earth, 131, e2025JB033723. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033723"> https://doi.org/10.1029/2025JB033723</a>
 <br>
 <a href="Kolawole_etal_2026.pdf">[PDF]</a>
 </p>

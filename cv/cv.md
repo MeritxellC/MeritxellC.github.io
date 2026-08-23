@@ -11,8 +11,8 @@ layout: default
 
 <p><strong><u>Education</u></strong></p>
 <p>
-<b>Columbia University,</b> New York, NY <i>(2023 - Exp. 2028)</i><br>
-&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Geophysics <i>(2025 - )</i><br>
+<b>Columbia University,</b> New York, NY<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Geophysics <i>(2025 - Exp. 2028)</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp; M.A. in Geophysics <i>(2023 - 2025)</i> <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Emphases: Active Tectonics, Structural & Field Geology, Seismology<br>
 </p>
@@ -98,6 +98,7 @@ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 <p>
 <b><i>Community </i></b><br>
+2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Metropolitan Detention Center Spanish Science Lecture</b>, Brooklyn, USA
 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Earth2Class</b>, Lamont-Doherty Earth Observatory<br>
 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
 </p>

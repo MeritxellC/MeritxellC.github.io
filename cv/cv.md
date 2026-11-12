@@ -68,7 +68,7 @@ layout: default
 
 <p><strong><u>Teaching and Mentoring Experience</u></strong></p> 
 
-2026, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Teaching Assistant</strong>, Columbia University <br>
+2025, 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Teaching Assistant</strong>, Columbia University <br>
 Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC2200: Earth’s Environmental Systems: The Solid Earth<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EESC1010: Geological Excursion to Death Valley<br>
 
@@ -91,20 +91,23 @@ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 <p>
 <b><i>University </i></b> <br>
-2025 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Student Talk Series Organizer</b>, Columbia University <br>
+2025 - 2026 &nbsp;&nbsp;&nbsp;&nbsp;  <b>Student Talk Series Organizer</b>, Columbia University <br>
 2024  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b>First-Year Colloquium Organizer</b>, Columbia University<br>
 2017 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;  <b>Physicists from Underrepresented Genders</b>, Carleton College<br>
 </p>
 
 <p>
 <b><i>Community </i></b><br>
-2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Metropolitan Detention Center Spanish Science Lecture</b>, Brooklyn, USA <br>
-2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Earth2Class</b>, Lamont-Doherty Earth Observatory<br>
-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
+2026 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b>Metropolitan Detention Center Science Guest Lecturer</b>, Brooklyn, USA <br>
+2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Lamont Summer REU Guest Lecturer </b>, Lamont-Doherty Earth Observatory<br>
+2023, 2026 &nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
 </p>
 
 <br style="line-height:1">
 
+<p>Last updated: November 2026</p>
+
+<br style="line-height:1">
 
 <p><strong><u>Fun things</u></strong></p>
 

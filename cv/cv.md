@@ -98,9 +98,9 @@ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 <p>
 <b><i>Community </i></b><br>
-2026 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b>Metropolitan Detention Center Science Guest Lecturer</b>, Brooklyn, USA <br>
+2026 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b>Metropolitan Detention Center Science Guest Lecturer</b>, Brooklyn, USA <br>
 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Lamont Summer REU Guest Lecturer </b>, Lamont-Doherty Earth Observatory<br>
-2023, 2026 &nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
+2023, 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
 </p>
 
 <br style="line-height:1">

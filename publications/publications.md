@@ -4,7 +4,7 @@ layout: default
 
 <style>
   .tan-highlight {
-    background-color: #C49464;
+    background-color: #D2AE89;
     color: #000000;
     padding: 2px 6px;
     border-radius: 4px;

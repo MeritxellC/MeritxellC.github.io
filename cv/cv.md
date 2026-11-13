@@ -4,6 +4,7 @@ layout: default
 <p>
 <b>Full CV</b>: You can find my full CV in PDF <a href="Meritxell_Colet_CV_PDF.pdf">here</a>.
 </p>
+<p>Last updated: November 2026</p>
 
 <br style="line-height:2">
 
@@ -24,7 +25,7 @@ layout: default
 
 <br style="line-height:1">
 
-<p><strong><u>Research Experience</u></strong></p>
+<p><strong><u>Professional and Research Appointments</u></strong></p>
 
 <p>
 <strong>Graduate Research</strong> (2023 - )<br>
@@ -97,15 +98,12 @@ Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 </p>
 
 <p>
-<b><i>Community </i></b><br>
+<b><i>Community and Outreach</i></b><br>
 2026 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <b>Metropolitan Detention Center Science Guest Lecturer</b>, Brooklyn, USA <br>
 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Lamont Summer REU Guest Lecturer </b>, Lamont-Doherty Earth Observatory<br>
 2023, 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>Open House</b>, Lamont-Doherty Earth Observatory<br>
 </p>
 
-<br style="line-height:1">
-
-<p>Last updated: November 2026</p>
 
 <br style="line-height:1">
 

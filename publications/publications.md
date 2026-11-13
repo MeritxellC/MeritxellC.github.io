@@ -28,7 +28,7 @@ layout: default
 </p>
 
 <p>
-<b>Colet, M.</b>, Kolawole, F., Seeber, L., Ekström, G., & Audemard, F. A. The 2026 Mw7 Venezuela Doublet Illuminates Westward Unzipping of a Structurally Complex Transform Plate Boundary. <i><span class="tan-highlight">Submitted</span> to Gephysical Research Letters.</i>
+<b>Colet, M.</b>, Kolawole, F., Seeber, L., Ekström, G., & Audemard, F. A. The 2026 Mw7 Venezuela Doublet Illuminates Westward Unzipping of a Structurally Complex Transform Plate Boundary. <i><span class="tan-highlight">Submitted</span> to Geophysical Research Letters.</i>
 </p>
 
 

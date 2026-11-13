@@ -24,7 +24,7 @@ layout: default
 <p><strong><u>Manuscript(s) submitted / in review / in revision</u></strong></p>
 
 <p>
-<b>Colet, M.</b>, Kolawole, F., Ajala, R., Wang, K., Lemna, O. S., Mulibo, G. D., Waldhauser, F., & Buck, W. R. Distinct Mode of Rift Initiation in Cratons. <i><span class="tan-highlight">Submitted</span> to Nat. Comm. Earth and Environment.</i>
+<b>Colet, M.</b>, Kolawole, F., Ajala, R., Wang, K., Lemna, O. S., Mulibo, G. D., Waldhauser, F., & Buck, W. R. Distinct Mode of Rift Initiation in Cratons. <i><span class="tan-highlight">In review</span>, Nat. Comm. Earth and Environment.</i>
 </p>
 
 <p>
